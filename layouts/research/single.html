@@ -1,0 +1,17 @@
+{{ define "main" }}
+    <h1>{{title .Title}}</h1>
+    <p>
+        {{.Params.Authors}}<br/>
+        <i>{{.Params.Journal}}</i>, Vol. {{.Params.Volume}}, No. {{.Params.Issue}}, pp. {{.Params.Pages}}, {{.Params.Year}}.
+    </p>
+
+    <p>
+        {{.Content}}
+    </p>
+    
+    <style>
+        h1{
+            font-size: 2em;
+        }
+    </style>
+{{ end }}

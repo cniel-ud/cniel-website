@@ -1,5 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+shortTitle:
 authors: 
 journal: 
 volume: 
@@ -8,6 +9,6 @@ pages:
 year: 
 
 date: {{ .Date }}
-draft: true
+draft: false
 ---
 
