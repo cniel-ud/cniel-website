@@ -4,7 +4,7 @@ title = "CNI Engineering Lab"
 sectionPagesMenu = "main"
 
 [params]
-    css = ["css/style.scss"]
+    css = "/css/style.scss"
 
 [menu]
     [[menu.main]]
