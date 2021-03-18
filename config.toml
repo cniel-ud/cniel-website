@@ -5,7 +5,7 @@ sectionPagesMenu = "main"
 CanonifyURLs = true
 
 [params]
-    css = "css/style.scss"
+    css = "css/style.css"
 
 [menu]
     [[menu.main]]
