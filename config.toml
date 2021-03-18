@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "CNI Lab"
+title = "CNI Engineering Lab"
 sectionPagesMenu = "main"
 
 [params]
