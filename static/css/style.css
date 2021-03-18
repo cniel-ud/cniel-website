@@ -25,18 +25,22 @@ body
     padding: 1em;
 }
 
-#content img{
+.md_image, figure{
     width:80%;
     height:auto;
+    padding:1em 0em;
 }
 
-.center {
+.center, .md_image, figure {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
-
+figure{
+    font-size: .8em;
+    font-style: italic;
+}
 
 /*below 1200px width*/
 @media (max-width: 1200px) {

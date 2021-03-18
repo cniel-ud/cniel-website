@@ -13,5 +13,16 @@
         h1{
             font-size: 2em;
         }
+
     </style>
+
+    <script>
+        $(".md_image").each(function() {
+            let img = $(this);
+            let alt = img.attr('alt');
+            img.after(
+                `<figure>${alt}</figure>`);
+        });
+    </script>
+
 {{ end }}
