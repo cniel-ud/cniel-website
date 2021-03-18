@@ -2,8 +2,11 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "CNI Lab"
 sectionPagesMenu = "main"
-[menu]
 
+[params]
+    css = ["css/style.scss"]
+
+[menu]
     [[menu.main]]
         identifier = "about"
         name = "about hugo"
