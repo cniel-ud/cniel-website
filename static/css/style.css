@@ -31,6 +31,10 @@ body
     margin-right: auto;
 }
 
+h1{
+    margin-bottom: .5em;
+}
+
 
 /*below 1200px width*/
 @media (max-width: 1200px) {

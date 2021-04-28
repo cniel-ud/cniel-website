@@ -7,9 +7,9 @@
 - hugo new content/ ..
 - archetypes hold metadata template info
 - permalink note
-  - baseURL      : http://example.org/some/directory/
-  - Permalink    : http://example.org/some/directory/films/o_brother/
-  - RelPermalink : /some/directory/films/o_brother/
+  - baseURL      : <http://example.org/some/directory/>
+  - Permalink    : <http://example.org/some/directory/films/o_brother/>
+  - RelPermalink : </some/directory/films/o_brother/>
 
 to add new member
 
