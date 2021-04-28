@@ -1,0 +1,90 @@
+{{ define "main" }}
+    <h1>{{.Title}}</h1>
+    {{ range .Data.Pages.ByDate }}
+        <div class ="member margin row justify-content-center">
+            
+            {{if .Params.ImageLink}}
+            <div class = "memberImage col-md-4">
+                <img class= "md_image" src="{{.Params.ImageLink}}" title="{{.Params.Name}}" alt="{{.Params.Name}}">
+            </div>
+            {{end}}
+            <div class = "memberContent col-md-8">
+                <h2 class="name">{{ .Params.Name }}</h2>
+                <h5 class="title">{{.Params.Title }}</h5>
+                {{ .Content }}
+            </div>
+        </div>
+    {{end}}
+
+
+
+    <style>
+        .member{
+            margin: 4em 0em;
+        }
+
+        .memberImage{
+            padding: 0;
+            height: 300px;
+            width: 300px;
+            overflow:hidden;
+            text-align: center;
+            object-fit: cover;
+        }
+
+        .memberImage img{
+            height: 300px;
+            width: 250px;
+            object-fit: cover;
+            object-position: 50% 50%;
+        }
+
+        .memberContent{
+            padding-top: 2em;
+            padding-left: 2em;
+        }
+
+        .title{
+            padding-bottom: 1em;
+        }
+
+
+        .member a{
+            margin-top: 1em;
+        }
+
+        .member a:link, .member a:visited{
+            border: 2px solid black;
+            border-radius: .1em;
+            color: black;
+            padding: .2em 1em;
+            margin-right: 1em;
+
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .member a:hover, .member a:active {
+            background-color: black;
+            color: white;
+        }
+
+                
+        /*below 1200px width*/
+        @media (max-width: 768px) {
+            .memberContent{
+                padding: 2em 0em;
+            }
+        }
+
+        @media (max-width: 480px){
+            .member a{
+                width:100%
+            }
+        }
+
+
+    </style>
+
+{{end}}

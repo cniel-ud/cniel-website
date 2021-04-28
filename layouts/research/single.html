@@ -9,12 +9,6 @@
         {{.Content}}
     </p>
     
-    <style>
-        h1{
-            font-size: 2em;
-        }
-
-    </style>
 
     <script>
         $(".md_image").each(function() {
@@ -24,5 +18,28 @@
                 `<figure>${alt}</figure>`);
         });
     </script>
+
+    <style>
+        h1{
+            font-size: 2em;
+        }
+                
+        .md_image, figure{
+            width:80%;
+            height:auto;
+            padding:1em 0em;
+        }
+
+        .md_image, figure {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        figure{
+            font-size: .8em;
+            font-style: italic;
+        }
+    </style>
 
 {{ end }}
