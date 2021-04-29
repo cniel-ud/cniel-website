@@ -1,3 +1,10 @@
+
+:root {
+    --primary: #001adb;
+    --secondary: #9100ca;
+}
+
+
 body
 {
     background-color: lightgrey !important;
@@ -8,10 +15,18 @@ body
     z-index: 99;
 }
 
-
 .dropdown:hover .dropdown-menu {
     display: block;
     margin-top: 0;
+}
+
+.dropdown-item:link, .dropdown-item:visited {
+    color: black;
+}
+
+.dropdown-item:hover, .dropdown-item:active{
+    color: black;
+    background-color: rgb(233, 233, 233);
 }
 
 
@@ -37,6 +52,14 @@ body
 
 h1{
     margin-bottom: .5em;
+}
+
+a:link, a:visited {
+    color: var(--primary);
+}
+
+a:hover, a:active{
+    color: var(--secondary);
 }
 
 
