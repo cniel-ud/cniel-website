@@ -8,10 +8,14 @@ body
     z-index: 99;
 }
 
+
 .dropdown:hover .dropdown-menu {
     display: block;
     margin-top: 0;
 }
+
+
+/* global styles */
 
 #content{
     padding: 5em 0em;
@@ -35,10 +39,31 @@ h1{
     margin-bottom: .5em;
 }
 
+/* button styles */
+
+.button:link, .button:visited, .member a:link, .member a:visited{
+    border: 2px solid black;
+    border-radius: .1em;
+    color: black;
+    padding: .2em 1em;
+    margin-right: 1em;
+
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.button:hover, .button:active, .member a:hover, .member a:active {
+    background-color: black;
+    color: white;
+}
+
+
+/* footer */
+
 footer{
     padding: 2em 5em;
 }
-
 
 .footerImage{
     position:absolute;
@@ -80,7 +105,7 @@ footer{
         padding: 0em 1em;
     }
 
-    .left, .right{
+    footer .left, footer .right{
         float: none;
         text-align: center;
     }

@@ -5,9 +5,16 @@
         <i>{{.Params.Journal}}</i>, Vol. {{.Params.Volume}}, No. {{.Params.Issue}}, pp. {{.Params.Pages}}, {{.Params.Year}}.
     </p>
 
-    <p>
+    
+    <a class="button" target="_blank" rel="noopener noreferrer" href="{{.Params.JournalLink}}">JOURNAL</a>
+
+    <a class="button" target="_blank" rel="noopener noreferrer" href="{{.Params.PdfLink}}">PDF</a>
+    
+    <a class="button" href="{{.Params.CodeLink}}">CODE</a>
+
+    <div class = "researchContent">
         {{.Content}}
-    </p>
+    </div>
     
 
     <script>
@@ -39,6 +46,10 @@
         figure{
             font-size: .8em;
             font-style: italic;
+        }
+
+        .researchContent{
+            margin-top: 2.5em;
         }
     </style>
 

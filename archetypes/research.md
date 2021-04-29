@@ -1,12 +1,18 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-shortTitle:
-authors: 
-journal: 
+shortTitle: "{{ replace .Name "-" " " | title }}"
+
+authors: ""
+journal: ""
 volume: 
 issue: 
-pages: 
+pages: ""
 year: 
+
+imageLink:
+journalLink:
+pdfLink:
+codeLink:
 
 date: {{ .Date }}
 draft: false

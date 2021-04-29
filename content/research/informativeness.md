@@ -1,6 +1,7 @@
 ---
 title: "Quantifying the informativeness of similarity measurements"
 shortTitle: "Quantifying Informativeness"
+
 authors: "Austin J. Brockmeier, Tingting Mu, Sophia Ananiadou, and John Y. Goulermas"
 journal: "Journal of Machine Learning Research"
 volume: 18
@@ -8,12 +9,14 @@ issue: 18
 pages: "1-61"
 year: 2017
 
+imageLink:
+journalLink: "http://www.jmlr.org/papers/v18/16-296.html"
+pdfLink: "http://www.jmlr.org/papers/volume18/16-296/16-296.pdf"
+codeLink: "/code/informativeness.zip"
+
 date: 2021-03-17T21:25:29-04:00
 draft: false
 ---
-
-
-![alt text here](/images/logo-black-fill.svg "title hoverover")
 
 ## Overview
 
