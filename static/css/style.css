@@ -35,8 +35,53 @@ h1{
     margin-bottom: .5em;
 }
 
+footer{
+    padding: 2em 5em;
+}
 
-/*below 1200px width*/
-@media (max-width: 1200px) {
 
+.footerImage{
+    position:absolute;
+    left: 40%;
+    height: 200px;
+    width: 400px;
+    overflow: hidden;
+}
+
+.footerImage img{
+    opacity: .1;
+    height: 400px;
+    width: 400px;
+}
+
+.left{
+    float:left;
+}
+.right{
+    float:right;
+}
+/*below 768px width*/
+@media (max-width: 768px) {
+    .footerImage{
+        position:relative;
+        display: block;
+        left:0px;
+        margin: auto;
+        width: 300px;
+        height: 150px;
+    }
+
+    .footerImage img{
+        height: 300px;
+        width: 300px;
+    }
+
+    footer{
+        padding: 0em 1em;
+    }
+
+    .left, .right{
+        float: none;
+        text-align: center;
+    }
 }
