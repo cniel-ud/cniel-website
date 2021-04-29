@@ -39,6 +39,8 @@ h1{
     margin-bottom: .5em;
 }
 
+
+
 /* button styles */
 
 .button:link, .button:visited, .member a:link, .member a:visited{
@@ -58,6 +60,14 @@ h1{
     color: white;
 }
 
+.md_image{
+    width:80%;
+    height:auto;
+    padding:1em 0em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 /* footer */
 
