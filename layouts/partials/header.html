@@ -34,21 +34,27 @@
                 </li>
             {{end}}
 
+            {{with .Site.GetPage "outreach"}}
+                <li class="nav-item">
+                    <a class="nav-link" href="{{.RelPermalink}}" >Outreach</a>
+                </li>
+            {{end}}
+
             {{with .Site.GetPage "members"}}
                 <li class="nav-item">
-                    <a class="nav-link" href="{{.RelPermalink}}" >{{.Title}}</a>
+                    <a class="nav-link" href="{{.RelPermalink}}" >Members</a>
                 </li>
             {{end}}
 
             {{with .Site.GetPage "admissions"}}
                 <li class="nav-item">
-                    <a class="nav-link" href="{{.RelPermalink}}" >{{.Title}}</a>
+                    <a class="nav-link" href="{{.RelPermalink}}" >Admissions</a>
                 </li>
             {{end}}
 
             {{with .Site.GetPage "contact"}}
                 <li class="nav-item">
-                    <a class="nav-link" href="{{.RelPermalink}}" >{{.Title}}</a>
+                    <a class="nav-link" href="{{.RelPermalink}}" >Contact</a>
                 </li>
             {{end}}
 

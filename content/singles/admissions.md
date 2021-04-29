@@ -2,7 +2,6 @@
 title: "Admissions"
 date: 2021-04-28T12:49:16-04:00
 draft: false
-layout: "admissions"
 ---
 
 I will be accepting graduate students beginning with the 2020–2021 academic year and continuing through subsequent semesters. In exceptional situations, support may be available starting in the summer before the fall term.

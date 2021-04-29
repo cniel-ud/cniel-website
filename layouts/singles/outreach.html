@@ -1,0 +1,22 @@
+{{ define "main" }}
+    <h1>{{.Title}}</h1>
+    {{.Content}}
+
+    <style>
+        #content{
+            text-align: center;
+        }
+
+        p, h1, h2, h3, h4, h5, h6{
+            text-align: left;
+        }
+        .md_image_wrapper{
+            display: inline-block;
+            margin: 0 auto;
+        }
+        .md_image{
+            height:350px;
+            width:auto;
+        }
+    </style>
+{{end}} 
