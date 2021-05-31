@@ -10,7 +10,7 @@ issue: 1
 pages: "43-54"
 year: 2016
 
-imageLink:
+imageLink: "/images/eegs1.png"
 external: false
 externalLink:
 journalLink: "http://dx.doi.org/10.1109/TBME.2015.2499241"

@@ -3,11 +3,51 @@
     {{ range .Data.Pages.ByDate}}
         <div class = "researchContainer">
             <h3>{{title .Params.Title}}</h3>
-            {{if eq .Params.External true}} 
-                <a href={{.Params.ExternalLink}}>External Link</a>
+            <div class="researchImage">
+                {{if .Params.ImageLink }} 
+                    <img src="{{.Params.ImageLink}}" >
+                {{else}}
+                    <img src="/images/logo-black-fill.svg" >
+                {{end}}
+            </div>
+
+            {{if .Params.ImageLink }} 
+                <p>{{.Params.ShortDescription}}</p>
             {{else}}
-                <a href="{{.RelPermalink}}">Internal Link</a>
+                <p>{{.Params.ShortDescription}}</p>
+            {{end}}
+
+
+            {{if eq .Params.External true}} 
+                <a class="button" href="{{.Params.ExternalLink}}" target="_blank">Redirect</a>
+            {{else}}
+                <a class="button" href="{{.RelPermalink}}">Learn More</a>
             {{end}}
         </div>
     {{end}}
+
+    <style>
+        .researchContainer{
+            display:inline-block;
+            width: 30%;
+        }
+
+        .researchImage{
+            padding: 0;
+            height: 200px;
+            width: 300px;
+            overflow:hidden;
+            text-align: center;
+            object-fit: cover;
+        }
+
+        .researchImage img{
+            height: 300px;
+            width: 300px;
+            object-fit: cover;
+            object-position: 50% 50%;
+        }
+    </style>
+
+
 {{end}}
