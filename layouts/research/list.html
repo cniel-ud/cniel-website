@@ -1,0 +1,13 @@
+{{ define "main" }}
+    <h1>Research</h1>
+    {{ range .Data.Pages.ByDate}}
+        <div class = "researchContainer">
+            <h3>{{title .Params.Title}}</h3>
+            {{if eq .Params.External true}} 
+                <a href={{.Params.ExternalLink}}>External Link</a>
+            {{else}}
+                <a href="{{.RelPermalink}}">Internal Link</a>
+            {{end}}
+        </div>
+    {{end}}
+{{end}}

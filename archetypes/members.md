@@ -1,7 +1,8 @@
 ---
 name: "{{ replace .Name "-" " " | title }}"
 title: "M.S. in Some Field"
-imageLink: "/images/profilePlaceholder.png"
+imageLink: 
+currentMember: true
 
 date: {{ .Date }}
 draft: false

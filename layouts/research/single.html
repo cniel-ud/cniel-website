@@ -2,15 +2,19 @@
     <h1>{{title .Title}}</h1>
     <p>
         {{.Params.Authors}}<br/>
-        <i>{{.Params.Journal}}</i>, Vol. {{.Params.Volume}}, No. {{.Params.Issue}}, pp. {{.Params.Pages}}, {{.Params.Year}}.
+        {{if .Params.Journal}} <i>{{.Params.Journal}}</i>, {{end}}
+        {{if .Params.Volume}} Vol. {{.Params.Volume}}, {{end}}
+        {{if .Params.Issue}} No. {{.Params.Issue}},  {{end}}
+        {{if .Params.Pages}} pp. {{.Params.Pages}},  {{end}}
+        {{if .Params.Issue}} {{.Params.Year}} {{end}}
     </p>
 
     
-    <a class="button" target="_blank" rel="noopener noreferrer" href="{{.Params.JournalLink}}">JOURNAL</a>
+    {{if .Params.JournalLink}} <a class="button" target="_blank" rel="noopener noreferrer" href="{{.Params.JournalLink}}">JOURNAL</a> {{end}}
 
-    <a class="button" target="_blank" rel="noopener noreferrer" href="{{.Params.PdfLink}}">PDF</a>
+    {{if .Params.PdfLink}} <a class="button" target="_blank" rel="noopener noreferrer" href="{{.Params.PdfLink}}">PDF</a> {{end}}
     
-    <a class="button" href="{{.Params.CodeLink}}">CODE</a>
+    {{if .Params.CodeLink}} <a class="button" href="{{.Params.CodeLink}}">CODE</a> {{end}}
 
     <div class = "researchContent">
         {{.Content}}

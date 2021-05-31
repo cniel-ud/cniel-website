@@ -1,6 +1,7 @@
 ---
 title: "Quantifying the informativeness of similarity measurements"
 shortTitle: "Quantifying Informativeness"
+shortDescription: "In this paper, we describe an unsupervised measure for quantifying the 'informativeness' of correlation matrices formed from the pairwise similarities or relationships among data instances."
 
 authors: "Austin J. Brockmeier, Tingting Mu, Sophia Ananiadou, and John Y. Goulermas"
 journal: "Journal of Machine Learning Research"
@@ -10,6 +11,8 @@ pages: "1-61"
 year: 2017
 
 imageLink:
+external: false
+externalLink:
 journalLink: "http://www.jmlr.org/papers/v18/16-296.html"
 pdfLink: "http://www.jmlr.org/papers/volume18/16-296/16-296.pdf"
 codeLink: "/code/informativeness.zip"

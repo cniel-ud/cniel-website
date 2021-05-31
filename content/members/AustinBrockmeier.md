@@ -2,6 +2,7 @@
 name: "Austin J. Brockmeier"
 title: "Some Title"
 imageLink: "/images/AustinBrockmeier.jpg"
+currentMember: true
 
 date: 2018-04-28T17:07:03-04:00
 draft: false

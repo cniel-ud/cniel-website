@@ -1,6 +1,7 @@
 ---
 title: "Learning Recurrent Waveforms within EEGs"
 shortTitle: "Recurrent Waveforms within EEGs"
+shortDescription: "We explore a modeling approach that automatically learns recurrent temporal waveforms within EEG traces."
 
 authors: "Austin J. Brockmeier and Jose C. Principe"
 journal: "IEEE Trans. on Biomedical Engineering"
@@ -10,6 +11,8 @@ pages: "43-54"
 year: 2016
 
 imageLink:
+external: false
+externalLink:
 journalLink: "http://dx.doi.org/10.1109/TBME.2015.2499241"
 pdfLink: "http://cnel.ufl.edu/files/1447193268.pdf"
 codeLink: "/code/eegs.zip"

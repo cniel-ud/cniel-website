@@ -1,6 +1,7 @@
 ---
 title: "Neural Decoding with Kernel-based Metric Learning"
 shortTitle: "Neural Decoding"
+shortDescription: "We pose the problem of optimizing multi-neuron metrics and other metrics for a particular neural decoding task using centered alignment, a kernel-based dependence measure."
 
 authors: "Austin J. Brockmeier, John S. Choi, Evan G. Kriminger, Joseph T. Francis, and Jose C. Principe"
 journal: "Neural Computation"
@@ -10,6 +11,8 @@ pages: "1080-1107"
 year: 2014
 
 imageLink:
+external: false
+externalLink:
 journalLink: "http://dx.doi.org/10.1162/NECO_a_00591"
 pdfLink: "http://cnel.ufl.edu/files/1389293595.pdf"
 codeLink: "/code/neural_decoding.zip"
