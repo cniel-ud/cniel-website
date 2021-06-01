@@ -2,7 +2,7 @@
 title: "K–12 Outreach and Undergraduate Research"
 date: 2021-04-29T00:49:51-04:00
 draft: false
-layout: "outreach"
+layout: "inlineImage"
 ---
 ![Outreach Image](/images/outreach/image4.jpg)
 

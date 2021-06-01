@@ -40,6 +40,12 @@
                 </li>
             {{end}}
 
+            {{with .Site.GetPage "education"}}
+            <li class="nav-item">
+                <a class="nav-link" href="{{.RelPermalink}}" >Education</a>
+            </li>
+            {{end}}
+
             {{with .Site.GetPage "outreach"}}
                 <li class="nav-item">
                     <a class="nav-link" href="{{.RelPermalink}}" >Outreach</a>

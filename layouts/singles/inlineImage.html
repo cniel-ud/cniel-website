@@ -4,25 +4,26 @@
 
     <style>
         #content{
-            text-align: center;
+            display: flex;
+            flex-direction: row;  
+            flex-wrap: wrap;        
+            justify-content: space-around;
         }
 
-        #content p,
-        #content h1, 
-        #content h2,
-        #content h3,
-        #content h4, 
-        #content h5,
-        #content h6{
-            text-align: left;
+        h1, h2, h3, h4, h5, h6 {
+            width: 100%;
         }
+
         .md_image_wrapper{
-            display: inline-block;
             margin: 0 auto;
         }
         .md_image{
             height:350px;
             width:auto;
+        }
+
+        h2, h3{
+            margin-top: .5em;
         }
 
         @media (max-width: 1000px) {
