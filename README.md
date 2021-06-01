@@ -4,6 +4,7 @@ The following website uses the Hugo Framework: (<https://gohugo.io/documentation
 
 ## Starting a server for testing
 
+- Guide to installing hugo: (<https://gohugo.io/getting-started/installing/>)
 - 'hugo server' is shows what the page looks like upon publication
 - 'hugo server -D' displays all pages that are marked as draft
 - 'hugo server --disableFastRender' is the go-to to see live-changes fast
@@ -52,4 +53,4 @@ Adding pages is as simple as creating a new file and filling in the information.
   - The automatic formatting can be changed in /css/style.css
 - For single pages, images are centered, justified, and inline by default
   - Can be changed in /layout/_default/single.html
-- The change to mobile view used across all pages is at 768px
+- The width break that changes everything to mobile is at 768px
