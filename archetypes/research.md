@@ -1,9 +1,9 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 shortTitle: "{{ replace .Name "-" " " | title }}"
-shortDescription: 
+shortDescription: "Please fill this out! Should only be 1-2 sentences."
 
-authors: ""
+authors:
 journal: 
 volume: 
 issue: 

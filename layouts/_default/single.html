@@ -1,4 +1,43 @@
 {{ define "main" }}
     <h1>{{.Title}}</h1>
     {{.Content}}
+    
+    <style>
+        #content{
+            display: flex;
+            flex-direction: row;  
+            flex-wrap: wrap;        
+            justify-content: space-around;
+        }
+
+        p, h1, h2, h3, h4, h5, h6 {
+            width: 100%;
+        }
+
+        .md_image_wrapper{
+            margin: 0 auto;
+        }
+        .md_image{
+            height:350px;
+            width:auto;
+        }
+
+        h2, h3{
+            margin-top: .5em;
+        }
+
+        @media (max-width: 1000px) {
+            .md_image{
+                height:300px;
+                width:auto;
+            }
+        }
+        @media (max-width: 768px) {
+            .md_image{
+                height:auto;
+                width:100%;
+            }
+        }
+    </style>
+
 {{end}}  

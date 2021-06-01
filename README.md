@@ -1,33 +1,55 @@
 # CNI_Lab
 
-## Hugo
-The following website uses the Hugo Framework: (<https://gohugo.io/documentation/>). There are four main folders that are used.
+The following website uses the Hugo Framework: (<https://gohugo.io/documentation/>). 
+
+## Starting a server for testing
+
+- 'hugo server' is shows what the page looks like upon publication
+- 'hugo server -D' displays all pages that are marked as draft
+- 'hugo server --disableFastRender' is the go-to to see live-changes fast
+
+## Important files
+
+There are four main folders that are used.
 
 - Archetypes
   - Files that specify the format of the front-matter that is generated when 'hugo new' is used to create new content for specfic folders.
 - Content
-  - Markdown files holding the information will be used to automatically generate html pages.
+  - This is the main folder to work with for adding and editing content.
+  - Contains markdown files holding the information will be used to automatically generate html pages.
   - To create a new page 'hugo new [filename]' must be used, otherwise page will not register with hugo.
     - Example: 'hugo new members/newMember.md'
-  - This is the main folder for adding and editing content.
+- Layouts
+  - Main folder to work with for editing how a page looks.  
+  - Contains html layouts for individual and list pages.
+  - All page specfic css styles are in the their repective layout pages.
+  - /_default folder
+    - index.html is where you can edit the front page
+    - /partials includes code blocks that can be inserted into html with {{partial "partialName" .}}
+    - /_markup/render-image.html is used to ensure that all images in the content markup folders are rendered correctly in html
+  - /singles
+    - Specifies the layouts for special one-off pages that need special layouts
+    - To use a /singles layout, must define 'layout: layoutName' in markdown content file
+- Static
+  - Images, code, pdfs, and other linked files.
+  - Global css styles are here as well in css/style.css
 
+## Adding pages
 
+Adding pages is as simple as creating a new file and filling in the information. Example of adding a new research page:
 
-- need to change baseURL in config.toml to host URL, referenced with absURL
-- hugo server -D
-- hugo new content/ ..
-- archetypes hold metadata template info
-- permalink note
-  - baseURL      : <http://example.org/some/directory/>
-  - Permalink    : <http://example.org/some/directory/films/o_brother/>
-  - RelPermalink : </some/directory/films/o_brother/>
+- 'hugo new research/researchName.md'
+- Fill in frontmatter
+- Body of text and images go in the md body
 
-### to add new member
+## Miscellaneous Notes
 
-- 'hugo new member/current/membername.md'
-- fill in frontmatter
-- description and links go in md body
-- any link included in member md page will automatically be turned into a link button
-
-### notes
-
+- Filling in an the 'externalLink' field in research will specify it as an external research page
+  - This page will not appear in the navbar
+  - You only need to fill in title and shortDescription for the list page display
+- Any links on the members page will be automatically converted into link-buttons
+  - To keep the format consistent, please only link resumes/portfolios/emails here
+  - The automatic formatting can be changed in /css/style.css
+- For single pages, images are centered, justified, and inline by default
+  - Can be changed in /layout/_default/single.html
+- The change to mobile view used across all pages is at 768px

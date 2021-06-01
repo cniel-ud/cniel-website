@@ -2,7 +2,6 @@
 title: "Education"
 date: 2021-06-01T02:38:52-04:00
 draft: false
-layout: "inlineImage"
 ---
 
 ## Heading 1
