@@ -14,23 +14,24 @@ The following website uses the Hugo Framework: (<https://gohugo.io/documentation
 There are four main folders that are used.
 
 - Archetypes
-  - Files that specify the format of the front-matter that is generated when 'hugo new' is used to create new content for specfic folders.
+  - Files that specify the front-matter that is generated when 'hugo new' is used to create new content for specfic folders.
 - Content
   - This is the main folder to work with for adding and editing content.
-  - Contains markdown files holding the information will be used to automatically generate html pages.
+  - Contains markdown files holding information that will be used to automatically generate html pages.
   - To create a new page 'hugo new [filename]' must be used, otherwise page will not register with hugo.
     - Example: 'hugo new members/newMember.md'
 - Layouts
   - Main folder to work with for editing how a page looks.  
   - Contains html layouts for individual and list pages.
-  - All page specfic css styles are in the their repective layout pages.
+  - All page-specfic css styles are in the their repective layout pages.
   - /_default folder
     - index.html is where you can edit the front page
     - /partials includes code blocks that can be inserted into html with {{partial "partialName" .}}
-    - /_markup/render-image.html is used to ensure that all images in the content markup folders are rendered correctly in html
+    - /_markup/render-image.html is used to ensure that all images in the content markup files are rendered correctly in html
   - /singles
     - Specifies the layouts for special one-off pages that need special layouts
     - To use a /singles layout, must define 'layout: layoutName' in markdown content file
+    - An example of this is the contact page
 - Static
   - Images, code, pdfs, and other linked files.
   - Global css styles are here as well in css/style.css
