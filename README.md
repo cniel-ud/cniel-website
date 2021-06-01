@@ -1,4 +1,4 @@
-# CNI_Lab
+# CNI Engineering Lab Website
 
 The following website uses the Hugo Framework: (<https://gohugo.io/documentation/>). 
 
@@ -54,3 +54,5 @@ Adding pages is as simple as creating a new file and filling in the information.
 - For single pages, images are centered, justified, and inline by default
   - Can be changed in /layout/_default/single.html
 - The width break that changes everything to mobile is at 768px
+- The site can be previewed with github-pages with minimal set-up
+  - (<https://gohugo.io/hosting-and-deployment/hosting-on-github/>)
