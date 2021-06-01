@@ -1,23 +1,22 @@
 ---
-title: "Test"
+title: "External Link"
 shortTitle: "Test"
-shortDescription: "lorum epsem"
+shortDescription: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 
 authors: ""
-journal: ""
+journal: 
 volume: 
 issue: 
-pages: 
+pages:
 year: 
 
 imageLink:
-external: true
-externalLink: "https://www.google.com/"
+externalLink: "www.google.com"
 journalLink:
 pdfLink:
 codeLink:
 
-date: 2021-05-31T01:37:02-04:00
+date: 2020-06-01T00:59:28-04:00
 draft: false
 ---
 

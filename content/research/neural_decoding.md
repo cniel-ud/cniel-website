@@ -10,8 +10,7 @@ issue: 6
 pages: "1080-1107"
 year: 2014
 
-imageLink:
-external: false
+imageLink: "/images/research/neuralDecoding1.png"
 externalLink:
 journalLink: "http://dx.doi.org/10.1162/NECO_a_00591"
 pdfLink: "http://cnel.ufl.edu/files/1389293595.pdf"
@@ -37,4 +36,5 @@ Independent Component Filters of Natural Images Compared with Simple Cells in Pr
 J. H. v. Hateren and A. v. d. Schaaf
 Proceedings: Biological Sciences  265  359-366  (1998)
 
+![Figure 1](/images/research/neuralDecoding1.png "Figure 1")
 30 by 30 patches were randomly sampled from the images. The simulated cells parameters $a$ and $b$ are set relative to the standard deviation of $s$. Specifically $a=0.31\sigma(s)$ and $b=1.8sigma(s)$, using the same values as Sharpee et al. The absence or presence of spike for a given patch is treated as a label. 40,000 patches and the corresponding labels were given to the metric learning algorithm. Mini-batch optimization was run and the results are displayed for a Mahalanobis metric (B) and a weighted metric (C). To our knowledge, this was the first attempt to use a weighted metric algorithm to infer the importance of individual pixels on a simulated simple cell.

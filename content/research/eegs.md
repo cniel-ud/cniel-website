@@ -10,8 +10,7 @@ issue: 1
 pages: "43-54"
 year: 2016
 
-imageLink: "/images/eegs1.png"
-external: false
+imageLink: "/images/research/eegs1.png"
 externalLink:
 journalLink: "http://dx.doi.org/10.1109/TBME.2015.2499241"
 pdfLink: "http://cnel.ufl.edu/files/1447193268.pdf"
@@ -25,4 +24,4 @@ draft: false
 
 When experts analyze EEGs they look for landmarks in the traces corresponding to established patterns such as oscillatory and phasic events of particular frequency or morphology. Long records motivate automated analysis techniques. Automation techniques often require design choices such as wavelet family or number of bandpass filters. To overcome this, we explore a modeling approach that automatically learns recurrent temporal waveforms within EEG traces. The estimation is based on a multiple-input, single-output linear model with sparsely excited inputs.
 
-![Figure 1](/images/eegs1.png "Figure 1")
+![Figure 1](/images/research/eegs1.png "Figure 1")

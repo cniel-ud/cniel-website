@@ -1,8 +1,9 @@
 {{ define "main" }}
     <h1>Research</h1>
-    {{ range .Data.Pages.ByDate}}
-        <div class = "researchContainer">
-            <h3>{{title .Params.Title}}</h3>
+    <div class = "researchContainer">
+    {{ range .Data.Pages.ByDate.Reverse}}
+        <div class = "researchItem">
+            <h5>{{title .Params.Title}}</h5>
             <div class="researchImage">
                 {{if .Params.ImageLink }} 
                     <img src="{{.Params.ImageLink}}" >
@@ -18,34 +19,60 @@
             {{end}}
 
 
-            {{if eq .Params.External true}} 
-                <a class="button" href="{{.Params.ExternalLink}}" target="_blank">Redirect</a>
+            {{if .Params.ExternalLink}} 
+                {{ if (hasPrefix .Params.ExternalLink "http") }}
+                    <a class="button" href="{{.Params.ExternalLink}}" target="_blank">Redirect</a>
+                {{else}}
+                    <a class="button" href="https://{{.Params.ExternalLink}}" target="_blank">Redirect</a>
+                {{end}}
             {{else}}
                 <a class="button" href="{{.RelPermalink}}">Learn More</a>
             {{end}}
         </div>
     {{end}}
+    </div>
 
     <style>
         .researchContainer{
+            display: flex;                
+            flex-direction: row;  
+            flex-wrap: wrap;        
+            justify-content: space-around;
+        }
+
+        .researchItem{
             display:inline-block;
-            width: 30%;
+            vertical-align: top;
+            text-align: left;
+            width: 300px;
+
+            margin: 3em 1em 3em 0em;
         }
 
         .researchImage{
             padding: 0;
             height: 200px;
-            width: 300px;
-            overflow:hidden;
+            overflow: hidden;
             text-align: center;
             object-fit: cover;
+            margin: 1em 0em;
         }
 
         .researchImage img{
-            height: 300px;
+            min-height: 200px;
+            min-width: 300px;
             width: 300px;
             object-fit: cover;
             object-position: 50% 50%;
+        }
+
+        @media (max-width: 768px) {
+            .researchItem, .button{
+                width: 100%;
+            }
+            .researchImage img{
+                width: 90%;
+            }
         }
     </style>
 
