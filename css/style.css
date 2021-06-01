@@ -7,12 +7,20 @@
 
 body
 {
-    background-color: lightgrey !important;
+    background-color: rgb(233, 233, 233) !important;
     margin:0 !important;
 }
 
 .navbar{
     z-index: 99;
+}
+
+.navbar-brand:hover, .nav-link:hover{
+    opacity: 60%;
+}
+
+.nav-link:link, .nav-link:visited{
+    color: white !important;
 }
 
 .dropdown:hover .dropdown-menu {
@@ -28,6 +36,11 @@ body
     color: black;
     background-color: rgb(233, 233, 233);
 }
+
+.mobile-only{
+    display: none;
+}
+
 
 
 /* global styles */
@@ -120,6 +133,19 @@ footer{
 }
 /*below 768px width*/
 @media (max-width: 768px) {
+    .mobile-only{
+        display: inline-block;
+    }
+
+    /*Gets rid of research hover dropdown in mobile*/
+    .dropdown-toggle::after {
+        display:none;
+    }
+    .dropdown:hover .dropdown-menu {
+        display: none;
+    }
+
+    /* Footer adjustments for mobile*/
     .footerImage{
         position:relative;
         display: block;
