@@ -2,12 +2,13 @@
 :root {
     --primary: #001adb;
     --secondary: #9100ca;
+    --tertiary: rgb(233, 233, 233);
 }
 
 
 body
 {
-    background-color: rgb(233, 233, 233) !important;
+    background-color: var(--tertiary) !important;
     margin:0 !important;
 }
 
@@ -34,7 +35,7 @@ body
 
 .dropdown-item:hover, .dropdown-item:active{
     color: black;
-    background-color: rgb(233, 233, 233);
+    background-color: var(--tertiary);
 }
 
 .mobile-only{
@@ -106,15 +107,27 @@ a:hover, a:active{
 }
 
 /* footer */
-
 footer{
-    padding: 2em 5em;
+    /*background-image: url(https://content.invisioncic.com/p289038/monthly_2020_02/Newman.thumb.jpg.7b9c63815001d8f440820ca6c2990f43.jpg);*/
+    background-image: url(../../../static/images/members/AustinBrockmeier.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+.footerText{
+    width: 100%;
+}
+
+.footerText div{
+    padding: 2em 0em;
 }
 
 .footerImage{
     position:absolute;
     left: 40%;
-    height: 200px;
+    height: 180px;
     width: 400px;
     overflow: hidden;
 }
@@ -127,10 +140,30 @@ footer{
 
 .left{
     float:left;
+    margin-left:5em;
 }
 .right{
     float:right;
+    margin-right:5em;
 }
+
+.copyright{
+    background-color: grey;
+    color: var(--tertiary);
+    height: 75px;
+    width: 100%;
+    display: inline-block;
+
+    padding: 1em;
+    text-align: center;
+}
+
+.copyright span{
+    padding: .5em;
+    font-style: italic;
+    font-size: small;
+}
+
 /*below 768px width*/
 @media (max-width: 768px) {
     .mobile-only{
@@ -167,5 +200,6 @@ footer{
     footer .left, footer .right{
         float: none;
         text-align: center;
+        margin: 0;
     }
 }
