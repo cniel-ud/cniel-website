@@ -23,10 +23,10 @@ There are four main folders that are used.
 - Layouts
   - Main folder to work with for editing how a page looks.  
   - Contains html layouts for individual and list pages.
-  - All page-specfic css styles are in the their repective layout pages.
+  - All page-specfic css styles are in the their respective layout pages.
   - /_default folder
     - index.html is where you can edit the front page
-    - /partials includes code blocks that can be inserted into html with {{partial "partialName" .}}
+    - /partials include code blocks that can be inserted into html with {{partial "partialName" .}}
     - /_markup/render-image.html is used to ensure that all images in the content markup files are rendered correctly in html
   - /singles
     - Specifies the layouts for special one-off pages that need special layouts
@@ -46,7 +46,7 @@ Adding pages is as simple as creating a new file and filling in the information.
 
 ## Miscellaneous Notes
 
-- Filling in an the 'externalLink' field in research will specify it as an external research page
+- Filling in the 'externalLink' field in research will specify it as an external research page
   - This page will not appear in the navbar
   - You only need to fill in title and shortDescription for the list page display
 - Any links on the members page will be automatically converted into link-buttons
