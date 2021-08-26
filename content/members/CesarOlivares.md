@@ -4,7 +4,7 @@ title: "alumnus and admitted Ph.D. student"
 imageLink: "/images/members/Cesar.jpg"
 currentMember: true
 
-date: 2021-04-28T17:00:02-04:00
+date: 2019-05-01T17:00:02-04:00
 draft: false
 ---
 

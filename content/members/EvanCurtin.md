@@ -4,7 +4,7 @@ title: "Undergraduate (Summer Scholar 2021)"
 imageLink: "/images/members/EvanCurtin.png"
 currentMember: true
 
-date: 2021-08-24T21:00:00-04:00
+date: 2021-06-01T21:00:00-04:00
 draft: false
 ---
 

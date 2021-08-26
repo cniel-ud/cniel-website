@@ -1,6 +1,6 @@
 baseURL = "https://www.eecis.udel.edu/~ajbrock/"
 languageCode = "en-us"
-title = "Brockmeier - CNIEL - University of Delaware"
+title = "CNIEL - University of Delaware"
 sectionPagesMenu = "main"
 CanonifyURLs = true
 

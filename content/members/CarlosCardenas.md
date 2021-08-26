@@ -4,7 +4,7 @@ title: "Ph.D. student"
 imageLink: "/images/members/Carlos.jpeg"
 currentMember: true
 
-date: 2021-04-28T13:12:57-04:00
+date: 2019-01-01T13:12:57-04:00
 draft: false
 ---
 **Research focus**: finding patterns in neural time series through convolutional sparse analysis. 

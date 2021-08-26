@@ -16,7 +16,7 @@ journalLink: "http://dx.doi.org/10.1109/TBME.2015.2499241"
 pdfLink: "/papers/brockmeier2016_learning_recurrent_waveforms.pdf"
 codeLink: "/code/eegs.zip"
 
-date: 2006-04-28T22:42:02-04:00
+date: 2016-04-28T22:42:02-04:00
 draft: false
 ---
 
