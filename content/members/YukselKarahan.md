@@ -1,6 +1,6 @@
 ---
-name: "Yuksel Karahan"
-title: "M.S."
+name: "Yuksel Karahan, M.S."
+title: "Ph.D. student"
 imageLink: 
 currentMember: true
 

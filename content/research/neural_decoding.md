@@ -1,7 +1,7 @@
 ---
 title: "Neural Decoding with Kernel-based Metric Learning"
-shortTitle: "Neural Decoding"
-shortDescription: "We pose the problem of optimizing multi-neuron metrics and other metrics for a particular neural decoding task using centered alignment, a kernel-based dependence measure."
+shortTitle: "Metric Learning for Neural Decoding"
+shortDescription: "Machine learning (optimizing feature weightings and projections using kernel-based dependence) for enhancing neural data analysis, applied to a somatosensory neural decoding task."
 
 authors: "Austin J. Brockmeier, John S. Choi, Evan G. Kriminger, Joseph T. Francis, and Jose C. Principe"
 journal: "Neural Computation"
@@ -10,31 +10,25 @@ issue: 6
 pages: "1080-1107"
 year: 2014
 
-imageLink: "/images/research/neuralDecoding1.png"
+imageLink: "/images/research/metricLearning_thumb.png"
 externalLink:
 journalLink: "http://dx.doi.org/10.1162/NECO_a_00591"
-pdfLink: "http://cnel.ufl.edu/files/1389293595.pdf"
+pdfLink: "/papers/brockmeier2014_kernel_metric_learning.pdf"
 codeLink: "/code/neural_decoding.zip"
 
-date: 2021-04-28T23:19:06-04:00
+date: 2014-04-28T23:19:06-04:00
 draft: false
 ---
 
 ## Overview
+Given a sample of data points, we often assume the points reside in some space in which we can measure distances between pairs of points. From these measurements we can understand which points are close to each other. Nearby points are often assumed to share characteristics. This assumption is the foundation of nearest-neighbor classification and regression as well as clustering. 
 
-When studying the nervous system, the choice of metric for the neural responses is a pivotal assumption. A well-suited distance metric enables neuroscientists to gauge the similarity of neural responses to various stimuli and assess the variability of responses to a repeated stimulus. In particular, neural spike train metrics have been used to quantify the information content carried by the timing of action potentials. While a number of metrics for individual neurons exist, a method to optimally combine single-neuron metrics into multi-neuron, or population-based, metrics is lacking. We pose the problem of optimizing multi-neuron metrics and other metrics for a particular neural decoding task using centered alignment, a kernel-based dependence measure.
+The function that measures the distance between pairs of points in a particular space is called a distance metric. 
 
-## Metric learning for neural encoding models
+![In the original metric space, the white gold circle is closer to three black circles (two of which are equidistant from it). In a new metric space, changes in the vertical axes contribute more to the distance. Now, two gold circles are closer than the black circles.](/images/research/metricLearning.png "Example of metric learning. ")
 
-Replicating the experiments of "Analyzing Neural Responses to Natural Signals: Maximally Informative Dimensions" by Sharpee, Rust, and Bialek, 2004, but replacing the maximally informative direction algorithm with metric-learning.
+When studying the function of the nervous system, the choice of metric for the neural responses is a pivotal assumption. A well-suited distance metric enables neuroscientists to gauge the similarity of neural responses to various stimuli and assess the variability of responses to a repeated stimulus. In particular, neural spike train metrics have been used to quantify the information content carried by the timing of action potentials. While a number of metrics for individual neurons exist, a method to optimally combine single-neuron metrics into multi-neuron, or population-based, metrics is lacking. For time-locked neural responses, we pose the problem of the supervised optimization of multi-neuron metrics and other metrics (including those for local field potentials (LFPs), which are the electric potentials measured within brain tissue). The goal is to tune the metric to better predict the stimulus from the neural response. Predicting the stimulus from the response is known as neural decoding.
 
-## Data generation
 
-A predefined filter consisting of 3 Gaussian bumps with equal covariance (A) resembled the shape of the filter used by Sharpee et al., but here the Gaussian bumps are offset instead of being centered. This filter corresponds to the linear weights of a model simple cell, a stochastic neuron. The inner product between an input image and the filter, denoted $s$, is proportional to the probability of the neuron spiking/firing or not. Specifically, a zero-mean Gaussian random variable $e$ with variance $a$ is added to the inner-product, if this sum is greater than the threshold $b$ then a spike is generated. As input, I use patches from a database of natural images (consisting of buildings, parks, trees, etc.):
+To guide the choice of metric learning, we propose to use centered alignment, a kernel-based dependence measure, to measure the correlation between the similarity in the data space (determined by the metric) and the similarity in the stimulus space. We provide mathematical formulation of the appropriate kernel and distance functions, as well as a MATLAB implementation of the batch and mini-batch optimization of the centered alignment metric learning (CAML). 
 
-Independent Component Filters of Natural Images Compared with Simple Cells in Primary Visual Cortex
-J. H. v. Hateren and A. v. d. Schaaf
-Proceedings: Biological Sciences  265  359-366  (1998)
-
-![Figure 1](/images/research/neuralDecoding1.png "Figure 1")
-30 by 30 patches were randomly sampled from the images. The simulated cells parameters $a$ and $b$ are set relative to the standard deviation of $s$. Specifically $a=0.31\sigma(s)$ and $b=1.8sigma(s)$, using the same values as Sharpee et al. The absence or presence of spike for a given patch is treated as a label. 40,000 patches and the corresponding labels were given to the metric learning algorithm. Mini-batch optimization was run and the results are displayed for a Mahalanobis metric (B) and a weighted metric (C). To our knowledge, this was the first attempt to use a weighted metric algorithm to infer the importance of individual pixels on a simulated simple cell.

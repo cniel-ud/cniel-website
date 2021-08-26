@@ -1,6 +1,6 @@
-baseURL = "https://annapoliswu.github.io/CNI_Lab/"
+baseURL = "https://www.eecis.udel.edu/~ajbrock/"
 languageCode = "en-us"
-title = "CNI Engineering Lab"
+title = "Brockmeier - CNIEL - University of Delaware"
 sectionPagesMenu = "main"
 CanonifyURLs = true
 

@@ -1,6 +1,6 @@
 ---
-name: "Austin J. Brockmeier"
-title: "Some Title"
+name: "Austin J. Brockmeier, Ph.D."
+title: "Assistant Professor"
 imageLink: "/images/members/AustinBrockmeier.jpg"
 currentMember: true
 
@@ -8,10 +8,27 @@ date: 2018-04-28T17:07:03-04:00
 draft: false
 ---
 
-I am an assistant professor in the Department of Electrical and Computer Engineering (ECE) and the Department of Computer and Information Sciences (CIS) within the College of Engineering at the University of Delaware (UD), and a resident faculty in UD's Data Science Institute.
+[Curriculum Vitae](/other/ajbrockmeier_CV_8_2021.pdf)
+[Email](mailto:ajbrock@udel.edu)
 
-My research interests include data science, machine learning, signal processing, and the underlying mathematics and design of statistical models, optimizations, and algorithms. I have experience interfacing with complex data from the domains of biomedical engineering, neuroscience, and natural language processing.
+*What*: **Data Science, Machine Learning, and Signal Processing**   
+These involve the underlying mathematical analysis, design of statistical models, and software implementation of data and signal processing (filtering and neural networks) as well as optimization routines.
+
+* Finding discrepancies in data sets using [divergences](/research/discrepancies/)
+* Selecting representations of data using [informativeness measures](/research/informativeness/)
+
+*Why*: To extract actionable information from complex data, especially to **understand and interface with the brain**
+
+* Identify meaningful features (in space or time) of the evoked neural response using [metric learning](/research/neural_decoding/)
+* Find patterns of waveforms in EEGs using [neural signal processing](/research/eegs/)
+* Extract information from text and use machine learning to prioritize large collections of articles using [natural language processing and text mining](/research/pico/)
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=g_QoCQQAAAAJ&view_op=list_works&sortby=pubdate)
-[Curriculum Vitae](https://www.ece.udel.edu/wp-content/uploads/2021/03/ajbrockmeier-cv-03-2021.pdf)
-[Email](mailto:ajbrock@udel.edu)
+
+*Where*: **University of Delaware** 
+* Primary appointment: [Department of Electrical and Computer Engineering (ECE)](https://www.ece.udel.edu) 
+* Joint appointment: [Department of Computer and Information Sciences (CIS)](https://www.cis.udel.edu/)
+* Both are within the [College of Engineering](https://engr.udel.edu/)
+* Resident faculty in UD's [Data Science Institute](https://dsi.udel.edu/)
+
+
