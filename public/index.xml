@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CNIEL - University of Delaware</title>
+    <link>https://www.eecis.udel.edu/~ajbrock/</link>
+    <description>Recent content on CNIEL - University of Delaware</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Aug 2021 00:59:28 -0400</lastBuildDate><atom:link href="https://www.eecis.udel.edu/~ajbrock/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News and Recent Research</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/research/news/</link>
+      <pubDate>Tue, 24 Aug 2021 00:59:28 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/research/news/</guid>
+      <description>July 2021 Carlos&amp;rsquo;s second paper accepted to EMBC&#39;21
+ &amp;ldquo;Shift-invariant waveform learning on epileptic ECoG&amp;rdquo; Pre-print PDF  May 2021 Carlos and Hassan presented their work as posters at NER&#39;21
+ Hassan presented &amp;ldquo;Local and Sparse Linear Causal Models for fMRI Resting-State Signals&amp;rdquo; Full-text (IEEE) | Poster PDF Carlos presented &amp;ldquo;Searching for Waveforms on Spatially-Filtered Epileptic ECoG&amp;rdquo; Full-text (IEEE) | PDF | Poster PDF  April 2021 Kick off of new ONR-funded project on interpretable divergences</description>
+    </item>
+    
+    <item>
+      <title>Visiting Scholar (Summer 2021)</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/members/nicolaslopez/</link>
+      <pubDate>Sun, 20 Jun 2021 17:36:38 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/members/nicolaslopez/</guid>
+      <description>Statistician working on the error modeling for synergistic machine learning.</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate (Summer Scholar 2021)</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/members/justinlabombard/</link>
+      <pubDate>Tue, 15 Jun 2021 17:00:22 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/members/justinlabombard/</guid>
+      <description>Dictionary Learning on Epileptic ECoG Waveforms </description>
+    </item>
+    
+    <item>
+      <title>Undergraduate (Summer Scholar 2021)</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/members/evancurtin/</link>
+      <pubDate>Tue, 01 Jun 2021 21:00:00 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/members/evancurtin/</guid>
+      <description>Non-Negative Matrix Factorization as Dictionary Learning for Audio Separation </description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/singles/education/</link>
+      <pubDate>Tue, 01 Jun 2021 02:38:52 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/singles/education/</guid>
+      <description>Fall semesters: second-year graduate-level course in machine learning. Spring semesters: 300-level undergraduate course in signal processing and linear system analysis Summer 2021: Independent study on adaptive filters Spring 2021: Graduate Data Science Community Hour during Spring 2020 Graduate Course Large-Scale Machine Learning ELEG/FSAN 817 Course Description: Introduction to the analysis and processing of massive high-dimensional data. Massive data sets generally involve growth not only in the number of individuals represented but also in the number of descriptive parameters of the individuals, leading to exponential growth in the number of hypothesis considered.</description>
+    </item>
+    
+    <item>
+      <title>K–12 Outreach and Undergraduate Research</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/singles/outreach/</link>
+      <pubDate>Thu, 29 Apr 2021 00:49:51 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/singles/outreach/</guid>
+      <description>In 2019, we joined UD&amp;rsquo;s Women in Engineering outreach program at a local New Castle Middle School, Serviam Girls Academy , whose mission is to take girls from low-income houses and give them the education they need to succeed in high school and beyond. Working with Trevor Foresta, ECE undergraduate student and Julia Schneider, a post-doctoral researcher from the Department of Linguistics and Cognitive Sciences, we developed a module showing ECE’s critical role in neuroimaging technology and analysis for their enrichment program during their enrichment hour (4-5 pm on Wednesday).</description>
+    </item>
+    
+    <item>
+      <title>Admissions</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/singles/admissions/</link>
+      <pubDate>Wed, 28 Apr 2021 12:49:16 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/singles/admissions/</guid>
+      <description>I will be accepting graduate students again (after the pandemic) starting Spring 2022 or Fall 2022 and continuing through subsequent semesters. In exceptional situations, support before the fall term.
+Due to the fact that I may miss your email, please apply to the Department of Electrical and Computer Engineering (ECE) and designate me as a potential advisor. I am also able to advise students in the Department of Computer and Information Sciences (CIS).</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/singles/contact/</link>
+      <pubDate>Wed, 28 Apr 2021 12:49:01 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/singles/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretable maximal discrepancies metrics for analyzing and improving generative models</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/research/discrepancies/</link>
+      <pubDate>Wed, 14 Apr 2021 00:59:28 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/research/discrepancies/</guid>
+      <description>Overview Divergence measures quantify the dissimilarity, including the distance, between distributions and are fundamental to hypothesis testing, information theory, and the estimation and criticism of statistical models. Recently, there has been renewed interest in divergences in the context of generative adversarial neural networks (GANs). While a multitude of divergences exist, they vary in their characteristics. Importantly, not all divergences are equally interpretable: a divergence between samples is considered interpretable if it directly answers the question “Which instances best exhibit the discrepancy between the samples?</description>
+    </item>
+    
+    <item>
+      <title>M.S. and Ph.D. student</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/members/hauphan/</link>
+      <pubDate>Fri, 01 Jan 2021 17:00:52 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/members/hauphan/</guid>
+      <description>Reinforcement learning estimation and detection. </description>
+    </item>
+    
+    <item>
+      <title>Ph.D. student</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/members/hassanbaker/</link>
+      <pubDate>Sat, 01 Feb 2020 17:00:38 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/members/hassanbaker/</guid>
+      <description>Graph signal processing for functional and structural neuroimaging. </description>
+    </item>
+    
+    <item>
+      <title>Advancing machine learning for neuroimaging through topology-aware signal processing</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/research/graphs/</link>
+      <pubDate>Sat, 01 Feb 2020 00:59:28 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/research/graphs/</guid>
+      <description>The proposed work plan is to develop machine learning techniques to work directly with graph signal processing techniques in the context of neuroimaging. The goal is to leverage information in the form of the topology of the signal sensors or measurement locations to refine the neural signal representations in order to improve the statistical power of tests for distinguishing differences between conditions or stimuli. The project’s scope includes the formulation, mathematical and statistical analysis, and initial validation of the proposed methodology.</description>
+    </item>
+    
+    <item>
+      <title>Ph.D. student</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/members/bilalriaz/</link>
+      <pubDate>Wed, 28 Aug 2019 17:00:22 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/members/bilalriaz/</guid>
+      <description>Unsupervised learning as optimizations with positive semidefinite matrices. </description>
+    </item>
+    
+    <item>
+      <title>Ph.D. student</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/members/yukselkarahan/</link>
+      <pubDate>Wed, 28 Aug 2019 16:59:19 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/members/yukselkarahan/</guid>
+      <description>Data science techniques for semisupervised domain transfer.</description>
+    </item>
+    
+    <item>
+      <title>Visiting Scholar (Summer 2019)</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/members/edwinsalcedo/</link>
+      <pubDate>Mon, 01 Jul 2019 17:36:38 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/members/edwinsalcedo/</guid>
+      <description>Machine learning for semisupervised domain transfer.</description>
+    </item>
+    
+    <item>
+      <title>Improving reference prioritisation with PICO recognition</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/research/pico/</link>
+      <pubDate>Sat, 01 Jun 2019 00:59:28 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/research/pico/</guid>
+      <description>Overview 
+Machine learning can assist with multiple tasks during systematic reviews to facilitate the rapid retrieval of relevant references during screening and to identify and extract information relevant to the study characteristics, which include the PICO elements of patient/population, intervention, comparator, and outcomes.
+
+A publicly available corpus of PICO annotations on biomedical abstracts is used to train a named entity recognition model, which is implemented as a recurrent neural network.</description>
+    </item>
+    
+    <item>
+      <title>alumnus and admitted Ph.D. student</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/members/cesarolivares/</link>
+      <pubDate>Wed, 01 May 2019 17:00:02 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/members/cesarolivares/</guid>
+      <description>Error-aware and vigilant machine learning. 3D convolutional neural networks for brain age prediction from structural measures. Optimal transport for color and style transfer.</description>
+    </item>
+    
+    <item>
+      <title>Ph.D. student</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/members/carloscardenas/</link>
+      <pubDate>Tue, 01 Jan 2019 13:12:57 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/members/carloscardenas/</guid>
+      <description>Research focus: finding patterns in neural time series through convolutional sparse analysis.
+Goal: to discover physiologically meaningful waveforms in multi-day continuous epileptic electrocorticographic (ECoG) recordings that can be used to build interpretable features for seizure prediction.
+Methods: interpretable machine learning, clustering and sparse coding for time series, supervised learning for neural data</description>
+    </item>
+    
+    <item>
+      <title>Assistant Professor</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/members/austinbrockmeier/</link>
+      <pubDate>Sat, 28 Apr 2018 17:07:03 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/members/austinbrockmeier/</guid>
+      <description>Curriculum Vitae Email
+What: Data Science, Machine Learning, and Signal Processing
+These involve the underlying mathematical analysis, design of statistical models, and software implementation of data and signal processing (filtering and neural networks) as well as optimization routines.
+ Finding discrepancies in data sets using divergences Selecting representations of data using informativeness measures  Why: To extract actionable information from complex data, especially to understand and interface with the brain</description>
+    </item>
+    
+    <item>
+      <title>Quantifying the informativeness of similarity measurements</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/research/informativeness/</link>
+      <pubDate>Fri, 17 Mar 2017 21:25:29 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/research/informativeness/</guid>
+      <description>Overview Choosing the particulars of a data representation is crucial for the successful application of machine learning techniques. In the unsupervised case, there is a lack of measures that can be used to compare different parameter choices that affect the representation. In this paper, we describe an unsupervised measure for quantifying the &amp;lsquo;informativeness&amp;rsquo; of correlation matrices formed from the pairwise similarities or relationships among data instances.
+The measure quantifies the heterogeneity of the correlations and is defined as the distance between a correlation matrix and the nearest correlation matrix with constant off-diagonal entries.</description>
+    </item>
+    
+    <item>
+      <title>Learning Recurrent Waveforms within EEGs</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/research/eegs/</link>
+      <pubDate>Thu, 28 Apr 2016 22:42:02 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/research/eegs/</guid>
+      <description>Overview When experts analyze EEGs they look for landmarks in the traces corresponding to established patterns such as oscillatory and phasic events of particular frequency or morphology. Long records motivate automated analysis techniques. Automation techniques often require design choices such as wavelet family or number of bandpass filters. To overcome this, we explore a modeling approach that automatically learns recurrent temporal waveforms within EEG traces. The estimation is based on a multiple-input, single-output linear model with sparsely excited inputs.</description>
+    </item>
+    
+    <item>
+      <title>Neural Decoding with Kernel-based Metric Learning</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/research/neural_decoding/</link>
+      <pubDate>Mon, 28 Apr 2014 23:19:06 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/research/neural_decoding/</guid>
+      <description>Overview Given a sample of data points, we often assume the points reside in some space in which we can measure distances between pairs of points. From these measurements we can understand which points are close to each other. Nearby points are often assumed to share characteristics. This assumption is the foundation of nearest-neighbor classification and regression as well as clustering.
+The function that measures the distance between pairs of points in a particular space is called a distance metric.</description>
+    </item>
+    
+  </channel>
+</rss>

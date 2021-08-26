@@ -1,4 +1,4 @@
-# CNI Engineering Lab Website
+# CNIEL Website
 
 The following website uses the Hugo Framework: (<https://gohugo.io/documentation/>). 
 
@@ -43,7 +43,7 @@ Adding pages is as simple as creating a new file and filling in the information.
 - 'hugo new research/researchName.md'
 - Fill in frontmatter
 - Body of text and images go in the md body
-
+- Pages are sorted in lists by manually changed publish/edit date (this can be used to sort members and research pages)
 ## Miscellaneous Notes
 
 - Filling in an the 'externalLink' field in research will specify it as an external research page

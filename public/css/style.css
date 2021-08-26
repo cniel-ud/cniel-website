@@ -1,0 +1,205 @@
+
+:root {
+    --primary: #001adb;
+    --secondary: #9100ca;
+    --tertiary: rgb(233, 233, 233);
+}
+
+
+body
+{
+    background-color: var(--tertiary) !important;
+    margin:0 !important;
+}
+
+.navbar{
+    z-index: 99;
+}
+
+.navbar-brand:hover, .nav-link:hover{
+    opacity: 60%;
+}
+
+.nav-link:link, .nav-link:visited{
+    color: white !important;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+}
+
+.dropdown-item:link, .dropdown-item:visited {
+    color: black;
+}
+
+.dropdown-item:hover, .dropdown-item:active{
+    color: black;
+    background-color: var(--tertiary);
+}
+
+.mobile-only{
+    display: none;
+}
+
+
+
+/* global styles */
+
+#content{
+    padding: 5em 0em;
+}
+
+.margin{
+    margin: 0 auto;
+}
+
+.padding{
+    padding: 1em;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    margin-bottom: .5em;
+}
+
+a:link, a:visited {
+    color: var(--primary);
+}
+
+a:hover, a:active{
+    color: var(--secondary);
+}
+
+
+
+/* button styles */
+
+.button:link, .button:visited, .member a:link, .member a:visited{
+    border: 2px solid black;
+    border-radius: .1em;
+    color: black;
+    padding: .2em 1em;
+    margin-right: 1em;
+
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.button:hover, .button:active, .member a:hover, .member a:active {
+    background-color: black;
+    color: white;
+}
+
+.md_image{
+    width:80%;
+    height:auto;
+    padding:1em 0em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* footer */
+footer{
+    /*background-image: url(https://content.invisioncic.com/p289038/monthly_2020_02/Newman.thumb.jpg.7b9c63815001d8f440820ca6c2990f43.jpg);*/
+    background-image: url(../../../static/images/members/AustinBrockmeier.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+.footerText{
+    width: 100%;
+}
+
+.footerText div{
+    padding: 2em 0em;
+}
+
+.footerImage{
+    position:absolute;
+    left: 40%;
+    height: 180px;
+    width: 400px;
+    overflow: hidden;
+}
+
+.footerImage img{
+    opacity: .1;
+    height: 400px;
+    width: 400px;
+}
+
+.left{
+    float:left;
+    margin-left:5em;
+}
+.right{
+    float:right;
+    margin-right:5em;
+}
+
+.copyright{
+    background-color: grey;
+    color: var(--tertiary);
+    height: 75px;
+    width: 100%;
+    display: inline-block;
+
+    padding: 1em;
+    text-align: center;
+}
+
+.copyright span{
+    padding: .5em;
+    font-style: italic;
+    font-size: small;
+}
+
+/*below 768px width*/
+@media (max-width: 768px) {
+    .mobile-only{
+        display: inline-block;
+    }
+
+    /*Gets rid of research hover dropdown in mobile*/
+    .dropdown-toggle::after {
+        display:none;
+    }
+    .dropdown:hover .dropdown-menu {
+        display: none;
+    }
+
+    /* Footer adjustments for mobile*/
+    .footerImage{
+        position:relative;
+        display: block;
+        left:0px;
+        margin: auto;
+        width: 300px;
+        height: 150px;
+    }
+
+    .footerImage img{
+        height: 300px;
+        width: 300px;
+    }
+
+    footer{
+        padding: 0em 1em;
+    }
+
+    footer .left, footer .right{
+        float: none;
+        text-align: center;
+        margin: 0;
+    }
+}

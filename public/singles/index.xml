@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Singles on CNIEL - University of Delaware</title>
+    <link>https://www.eecis.udel.edu/~ajbrock/singles/</link>
+    <description>Recent content in Singles on CNIEL - University of Delaware</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jun 2021 02:38:52 -0400</lastBuildDate><atom:link href="https://www.eecis.udel.edu/~ajbrock/singles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Education</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/singles/education/</link>
+      <pubDate>Tue, 01 Jun 2021 02:38:52 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/singles/education/</guid>
+      <description>Fall semesters: second-year graduate-level course in machine learning. Spring semesters: 300-level undergraduate course in signal processing and linear system analysis Summer 2021: Independent study on adaptive filters Spring 2021: Graduate Data Science Community Hour during Spring 2020 Graduate Course Large-Scale Machine Learning ELEG/FSAN 817 Course Description: Introduction to the analysis and processing of massive high-dimensional data. Massive data sets generally involve growth not only in the number of individuals represented but also in the number of descriptive parameters of the individuals, leading to exponential growth in the number of hypothesis considered.</description>
+    </item>
+    
+    <item>
+      <title>K–12 Outreach and Undergraduate Research</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/singles/outreach/</link>
+      <pubDate>Thu, 29 Apr 2021 00:49:51 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/singles/outreach/</guid>
+      <description>In 2019, we joined UD&amp;rsquo;s Women in Engineering outreach program at a local New Castle Middle School, Serviam Girls Academy , whose mission is to take girls from low-income houses and give them the education they need to succeed in high school and beyond. Working with Trevor Foresta, ECE undergraduate student and Julia Schneider, a post-doctoral researcher from the Department of Linguistics and Cognitive Sciences, we developed a module showing ECE’s critical role in neuroimaging technology and analysis for their enrichment program during their enrichment hour (4-5 pm on Wednesday).</description>
+    </item>
+    
+    <item>
+      <title>Admissions</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/singles/admissions/</link>
+      <pubDate>Wed, 28 Apr 2021 12:49:16 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/singles/admissions/</guid>
+      <description>I will be accepting graduate students again (after the pandemic) starting Spring 2022 or Fall 2022 and continuing through subsequent semesters. In exceptional situations, support before the fall term.
+Due to the fact that I may miss your email, please apply to the Department of Electrical and Computer Engineering (ECE) and designate me as a potential advisor. I am also able to advise students in the Department of Computer and Information Sciences (CIS).</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/singles/contact/</link>
+      <pubDate>Wed, 28 Apr 2021 12:49:01 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/singles/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
