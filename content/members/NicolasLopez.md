@@ -8,4 +8,4 @@ date: 2021-06-20T17:36:38-04:00
 draft: false
 ---
 
-Statistician working on the error modeling for synergistic machine learning.
+Statistician working on the error modeling for synergistic machine learning. [LinkedIn](https://www.linkedin.com/in/anlopezl/)
