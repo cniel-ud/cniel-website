@@ -38,7 +38,7 @@ voxel-to-voxel causal modeling feature selection"
 —César's paper and Yüksel and Bilal's paper accepted to DistShift at NeurIPS 2021. 
 
 ##### September 2021
-—[Bilal](/members/#bilal) passes the Ph.D. qualifying examination.
+—Hassan passes the Ph.D. qualifying examination.
 
 —Dr. Brockmeier will serve as Co-Investigator on a NIH-funded R21 project  "Integrative Data Analysis to Identify Persistent Post-Concussion Deficits and Subsequent Musculoskeletal Injury Risk" led by Dr. Thomas Buckley
 
