@@ -4,9 +4,13 @@ date: 2021-04-28T12:49:16-04:00
 draft: false
 ---
 
-I will be accepting graduate students again (after the pandemic) starting Spring 2022 or Fall 2022 and continuing through subsequent semesters. In exceptional situations, support  before the fall term.
+I will be accepting graduate students again (after the pandemic) starting Spring 2022 or Fall 2022 and continuing through subsequent semesters. In exceptional situations, support  before the fall term. 
 
-Due to the fact that I may miss your email, please apply to the [Department of Electrical and Computer Engineering (ECE)](http://ece.udel.edu/index.html) and designate me as a potential advisor. I am also able to advise students in the [Department of Computer and Information Sciences (CIS)](http://www.cis.udel.edu/). Both departments are in the [College of Engineering](https://www.engr.udel.edu/) at the University of Delaware.
+Due to the fact that I may miss your email, please apply to the [Department of Electrical and Computer Engineering (ECE)](http://ece.udel.edu/index.html) and designate me as a potential advisor. I am also able to advise students in the [Department of Computer and Information Sciences (CIS)](http://www.cis.udel.edu/). Both departments are in the [College of Engineering](https://www.engr.udel.edu/) at the University of Delaware. Starting Fall 2022, we are also specifically looking for students interested in pursuing a Ph.D. focused on data science and computing applied to polymer design and innovation. [Find out more](https://sites.udel.edu/midas-nrt/)
+
+Also starting in Fall 2022, UD is recruiting for its [interdisciplinary neuroscience graduate (ING) program](https://www.udel.edu/academics/colleges/grad/prospective-students/programs/interdisciplinary/interdisciplinary-neuroscience/) that spans many colleges including College of Engineering. Applicants with backgrounds in computational and analytic fields who are interested in advancing data science tools for understanding the brain are encouraged to apply. 
+
+In CIS, the admission review is performed by a committee. Applicants are encouraged to have a focused statement describing their research pursuits and their skills and experiences. 
 
 In ECE, the admission review also involves the associate chair of graduate studies. The process has many stages:
 

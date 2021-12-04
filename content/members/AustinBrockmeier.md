@@ -8,7 +8,7 @@ date: 2018-04-28T17:07:03-04:00
 draft: false
 ---
 
-[Curriculum Vitae](/other/ajbrockmeier_CV_8_2021.pdf)
+[Curriculum Vitae](/other/ajbrockmeier_CV_12_2021.pdf)
 [Email](mailto:ajbrock@udel.edu)
 
 *What*: **Data Science, Machine Learning, and Signal Processing**   
