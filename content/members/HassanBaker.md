@@ -1,12 +1,11 @@
 ---
-name: "Hassan Baker, M.S."
-title: "Ph.D. student"
-imageLink: "/images/members/Hassan.jpg"
+name: "Hassan Baker"
+title: "M.S."
+imageLink: 
 currentMember: true
 
-date: 2020-02-01T17:00:38-04:00
+date: 2021-04-28T17:00:38-04:00
 draft: false
 ---
 
-###### Signals processing and machine learning for neural signals. {#hassan}
-My goal is to use signal processing and machine learning techniques for neural discoveries and facilitates fetching information from the raw neural data. 
+Neural decoding and signal processing.
