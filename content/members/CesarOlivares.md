@@ -1,6 +1,6 @@
 ---
 name: "C. Cesar Claros Olivares, M.S."
-title: "alumnus and admitted Ph.D. student"
+title: "Ph.D. student and M.S. alumnus"
 imageLink: "/images/members/Cesar.jpg"
 currentMember: true
 

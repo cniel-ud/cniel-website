@@ -1,6 +1,6 @@
 ---
 title: "News and Recent Research"
-shortTitle: "News!"
+shortTitle: "News and Updates"
 shortDescription: ""
 
 imageLink: "/images/evanshall.png"
@@ -10,10 +10,33 @@ date: 2021-08-24T00:59:28-04:00
 draft: false
 ---
 
-##### Application Deadlines
-* University of Delaware's Ph.D. program in Electrical and Computer Engineering (apply early; February 1 is the deadline to be considered for departmental funding.)
-* University of Delaware's Undergraduate Summer Scholars (Please contact me ASAP as deadlines are usually Feb. or Mar.)
-* University of Delaware's Latin and South America Summer Program for Visiting Researchers [2022 Summer Program Application Form](https://forms.gle/V88AeEDrZgkk2R488) Deadline: February 15th, 2022.
+
+[//]: # ([2022 Summer Program Application Form](https://forms.gle/V88AeEDrZgkk2R488))
+
+
+##### July 2022
+–Dr. Grace McIlvain presents joint work from the Prof. Johnson's [Mechanical Neuroimaging Lab](https://mechneurolab.squarespace.com/) (MNL) instigated by MNL's  Rebecca Clements (undergraduate thesis) and assisted by César:  “Mechanical property-based brain age prediction using artificial neural networks”, _World Congress of Biomechanics_, Taipei, Taiwan. Journal version to be submitted soon!
+ 
+##### June 2022
+—César passes the Ph.D. qualifying examination.
+
+—Alex Mulrooney starts the (undergraduate) Summer Scholars Program
+
+—Karen Andrea Fonseca, B.S. (Industrial University of Santander, Bucaramanga, Colombia), joins us as a visiting research working on application of contrastive learning representations for improving detection of diffuse phenomena in astronomical images in collaboration with Prof. Federica Bianco as part of an [NSF funded grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2108841) 
+
+##### May 2022
+–Keider, Oscar, and [Dr. Luis Sanchez Giraldo](https://www.engr.uky.edu/directory/luis-sanchez-giraldo), collaborators at the University of Kentucky, present [recent work on divergence estimation](https://arxiv.org/pdf/2112.01583.pdf) at [ICASSP 2022](https://ieeexplore.ieee.org/document/9747350) 
+
+–Bilal finishes a masters thesis "On spectral clustering, informativeness and seriation"
+
+–Received a University of Delaware Research Foundation (UDRF) grant to support "Mapping and Decoding the Brain's Activity during Human-AI Interaction" research 6/1/2022–5/31/2024
+
+–Yuksel won the best poster award at the UD ECE Research Day for the Signal Processing, Communication, and Control research area with "Kernel Landmark: An Empirical Statistical Approach to Detect Covariate Shift", co-authored with Bilal 
+
+##### April 2022
+–"Highlighted Reviewer of ICLR 2022" (top 8.7% = top 543 of 6,207 reviewers) 
+
+–UD College of Engineering Faculty Award for Excellence in Service & Community Engagement
 
 ##### December 2021
 —Good luck to all the conference presenters this month: 
@@ -55,10 +78,12 @@ voxel-to-voxel causal modeling feature selection"
 —Summer Scholars (Evan Curtin and Justin Labombard) present at the Undergraduate Research and Service Scholar Celebratory Symposium
 *  Evan Curtin, "Non-Negative Matrix Factorization as Dictionary Learning for Audio Separation" [Poster PDF](other/curtin_poster_summer2021.pdf) 
 *  Justin Labombard, "Dictionary Learning on Eplieptic ECoG Waveforms" [Poster PDF](other/labombard_poster_summer2021.pdf) 
-—Kick off of new NSF-funded project led by Dr. Federica Bianco on **AI for astronomy**:   ``Detecting and studying light echoes in the era of Rubin and artificial intelligence'' [NSF 2108841](https://nsf.gov/awardsearch/showAward?AWD_ID=2108841)
+
+—Kick off of new NSF-funded project led by Dr. Federica Bianco on AI for astronomy:   ``Detecting and studying light echoes in the era of Rubin and artificial intelligence'' [NSF 2108841](https://nsf.gov/awardsearch/showAward?AWD_ID=2108841)
 
 ##### July 2021 
 —[Andres Nicolas Lopez](/members/#nicolas), MSc. (National University of Colombia), joins us as a visiting research working on modeling the uncertainty and errors of machine learning models [University of Delaware's Latin and South America Summer Program](https://www.eecis.udel.edu/~arce/partnerships/summerprogram) 
+
 —Carlos's second paper accepted to EMBC'21
 *  "Shift-invariant waveform learning on epileptic ECoG" [Pre-print PDF](http://arxiv.org/abs/2108.03177) 
 

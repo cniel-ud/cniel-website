@@ -21,7 +21,7 @@ Divergence measures quantify the dissimilarity, including the distance, between 
 ![Where do the distributions differ.](/images/research/discrepancies2.png "Example of discrepancies. ")
 
 #### Outcomes
-* **Y. Karahan**, B. Riaz, and **A. J. Brockmeier** "Kernel landmarks: An empirical statistical approach to detect covariate shift", *Workshop on Distribution Shifts, 35th Conference on Neural Information Processing Systems (NeurIPS 2021)* [Paper](https://openreview.net/forum?id=Wu5hMMQ76OE), [Poster](/other/karahan_poster_distshift2021), [5 min Presentation](https://recorder-v3.slideslive.com/?share=56618&s=79a6864d-0cec-41ad-a152-09cceb1c6bf4).
+* **Y. Karahan**, B. Riaz, and **A. J. Brockmeier** "Kernel landmarks: An empirical statistical approach to detect covariate shift", *Workshop on Distribution Shifts, 35th Conference on Neural Information Processing Systems (NeurIPS 2021)* [Paper](https://openreview.net/forum?id=Wu5hMMQ76OE), [Poster](/other/karahan_poster_distshift2021), [5 min Presentation](https://recorder-v3.slideslive.com/?share=56618&s=79a6864d-0cec-41ad-a152-09cceb1c6bf4), [ECE Research Day Poster–Winner in SPCC Group](/other/karahan_poster_eceresearch2022.pdf)
 *  **A. J. Brockmeier**, **C. C. Claros Olivares**, M. S. Emigh, and  L. G. Sanchez Giraldo "Identifying the instances associated with distribution shifts using the max-sliced Bures divergence", *Workshop on Distribution Shifts, 35th Conference on Neural Information Processing Systems (NeurIPS 2021)* [Paper](https://openreview.net/forum?id=y_s0M6OtyH_), [Poster](/other/brockmeier_poster_distshift2021), [5 min Presentation](https://recorder-v3.slideslive.com/?share=56676&s=b55c603d-1e31-4ab2-9cd7-440e5d05d64d).
 
 #### Acknowledgements 

@@ -1,7 +1,7 @@
 ---
 title: "Advancing machine learning for neuroimaging through topology-aware signal
 processing"
-shortTitle: "Graphs and Signal Processing for Neuroimaging"
+shortTitle: "Graph and Signal Processing for Neuroimaging"
 shortDescription: "Project funding from a University of Delaware Research Foundation-Strategic Initiative grant"
 
 authors: "University of Delaware Research Foundation–Strategic Initiative,  Principal Investigator: Austin J. Brockmeier, Mentor: Gonzalo Arce,  11/2019–10/2021."
@@ -21,7 +21,9 @@ The proposed work plan is to develop machine learning techniques to work directl
 
 #### Outcomes
 *  NER'21: **Hassan Baker**, A. J. Brockmeier "Local and Sparse Linear Causal Models for fMRI Resting-State Signals" [Full-text (IEEE)](https://ieeexplore.ieee.org/document/9441242/) | [Poster PDF](/other/baker_poster_NER2021.pdf)
-*Machine Learning for Health (ML4H): **Hassan Baker**, A. J. Brockmeier "Exploring latent networks in resting-state fMRI using voxel-to-voxel causal modeling feature selection" [Paper](https://arxiv.org/pdf/2111.07488.pdf), [Poster](/other/baker_poster_ML4H2021.pdf)
+*  Machine Learning for Health (ML4H): **Hassan Baker**, A. J. Brockmeier "Exploring latent networks in resting-state fMRI using voxel-to-voxel causal modeling feature selection" [Paper](https://arxiv.org/pdf/2111.07488.pdf), [Poster](/other/baker_poster_ML4H2021.pdf)
+* Hassan Baker's poster presentation at [2022 DARWIN Computing Symposium](https://dsi.udel.edu/events/darwin-symposium-2), [Poster](https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/e/7520/files/formidable/45/pptTemplate.pptx-2-ed9085.pdf) [1.5 minute description](https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/e/7520/files/formidable/45/GMT20220321-145730_Recording_1920x1002-074139.mp4) 
+![Hassan presents his poster to another attendee of the 2022 DARWIN](/images/research/brainGraph3.jpg)
 
 
 #### Acknowledgements 

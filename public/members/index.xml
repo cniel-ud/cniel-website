@@ -2,113 +2,131 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Members on CNIEL - University of Delaware</title>
-    <link>https://www.eecis.udel.edu/~ajbrock/members/</link>
+    <link>http://localhost:1313/~ajbrock/members/</link>
     <description>Recent content in Members on CNIEL - University of Delaware</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jun 2021 17:36:38 -0400</lastBuildDate><atom:link href="https://www.eecis.udel.edu/~ajbrock/members/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Aug 2022 10:30:49 -0400</lastBuildDate><atom:link href="http://localhost:1313/~ajbrock/members/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Undergraduate Researcher (Summer Scholar 2022)</title>
+      <link>http://localhost:1313/~ajbrock/members/alexmulrooney/</link>
+      <pubDate>Tue, 09 Aug 2022 10:30:49 -0400</pubDate>
+      
+      <guid>http://localhost:1313/~ajbrock/members/alexmulrooney/</guid>
+      <description>Neural engineering: brain-AI interfaces and algorithms</description>
+    </item>
+    
+    <item>
+      <title>Visiting Scholar (Summer 2022)</title>
+      <link>http://localhost:1313/~ajbrock/members/karenfonseca/</link>
+      <pubDate>Mon, 08 Aug 2022 18:16:38 -0400</pubDate>
+      
+      <guid>http://localhost:1313/~ajbrock/members/karenfonseca/</guid>
+      <description>Contrastive learning representations for image segmentation/detection</description>
+    </item>
+    
     <item>
       <title>Visiting Scholar (Summer 2021)</title>
-      <link>https://www.eecis.udel.edu/~ajbrock/members/nicolaslopez/</link>
+      <link>http://localhost:1313/~ajbrock/members/nicolaslopez/</link>
       <pubDate>Sun, 20 Jun 2021 17:36:38 -0400</pubDate>
       
-      <guid>https://www.eecis.udel.edu/~ajbrock/members/nicolaslopez/</guid>
+      <guid>http://localhost:1313/~ajbrock/members/nicolaslopez/</guid>
       <description>Statistician working on the error modeling for synergistic machine learning. LinkedIn</description>
     </item>
     
     <item>
       <title>Undergraduate (Summer Scholar 2021)</title>
-      <link>https://www.eecis.udel.edu/~ajbrock/members/justinlabombard/</link>
+      <link>http://localhost:1313/~ajbrock/members/justinlabombard/</link>
       <pubDate>Tue, 15 Jun 2021 17:00:22 -0400</pubDate>
       
-      <guid>https://www.eecis.udel.edu/~ajbrock/members/justinlabombard/</guid>
+      <guid>http://localhost:1313/~ajbrock/members/justinlabombard/</guid>
       <description>Dictionary Learning on Epileptic ECoG Waveforms </description>
     </item>
     
     <item>
       <title>Undergraduate (Summer Scholar 2021)</title>
-      <link>https://www.eecis.udel.edu/~ajbrock/members/evancurtin/</link>
+      <link>http://localhost:1313/~ajbrock/members/evancurtin/</link>
       <pubDate>Tue, 01 Jun 2021 21:00:00 -0400</pubDate>
       
-      <guid>https://www.eecis.udel.edu/~ajbrock/members/evancurtin/</guid>
+      <guid>http://localhost:1313/~ajbrock/members/evancurtin/</guid>
       <description>Non-Negative Matrix Factorization as Dictionary Learning for Audio Separation </description>
     </item>
     
     <item>
       <title>M.S. and Ph.D. student</title>
-      <link>https://www.eecis.udel.edu/~ajbrock/members/hauphan/</link>
+      <link>http://localhost:1313/~ajbrock/members/hauphan/</link>
       <pubDate>Fri, 01 Jan 2021 17:00:52 -0400</pubDate>
       
-      <guid>https://www.eecis.udel.edu/~ajbrock/members/hauphan/</guid>
-      <description>Reinforcement learning estimation and detection. </description>
+      <guid>http://localhost:1313/~ajbrock/members/hauphan/</guid>
+      <description>Machine learning for underwater chemical source localization. Reinforcement learning for estimation and detection. </description>
     </item>
     
     <item>
       <title>Ph.D. student</title>
-      <link>https://www.eecis.udel.edu/~ajbrock/members/hassanbaker/</link>
+      <link>http://localhost:1313/~ajbrock/members/hassanbaker/</link>
       <pubDate>Sat, 01 Feb 2020 17:00:38 -0400</pubDate>
       
-      <guid>https://www.eecis.udel.edu/~ajbrock/members/hassanbaker/</guid>
+      <guid>http://localhost:1313/~ajbrock/members/hassanbaker/</guid>
       <description>Graph signal processing for functional and structural neuroimaging. </description>
     </item>
     
     <item>
       <title>Ph.D. student</title>
-      <link>https://www.eecis.udel.edu/~ajbrock/members/bilalriaz/</link>
+      <link>http://localhost:1313/~ajbrock/members/bilalriaz/</link>
       <pubDate>Wed, 28 Aug 2019 17:00:22 -0400</pubDate>
       
-      <guid>https://www.eecis.udel.edu/~ajbrock/members/bilalriaz/</guid>
+      <guid>http://localhost:1313/~ajbrock/members/bilalriaz/</guid>
       <description>Unsupervised learning as optimizations with positive semidefinite matrices. </description>
     </item>
     
     <item>
       <title>Ph.D. student</title>
-      <link>https://www.eecis.udel.edu/~ajbrock/members/yukselkarahan/</link>
+      <link>http://localhost:1313/~ajbrock/members/yukselkarahan/</link>
       <pubDate>Wed, 28 Aug 2019 16:59:19 -0400</pubDate>
       
-      <guid>https://www.eecis.udel.edu/~ajbrock/members/yukselkarahan/</guid>
-      <description>Data science techniques for semisupervised domain transfer.</description>
+      <guid>http://localhost:1313/~ajbrock/members/yukselkarahan/</guid>
+      <description>Data science techniques (divergence measures; kernel methods) for covariate shift detection and semisupervised domain transfer.</description>
     </item>
     
     <item>
       <title>Visiting Scholar (Summer 2019)</title>
-      <link>https://www.eecis.udel.edu/~ajbrock/members/edwinsalcedo/</link>
+      <link>http://localhost:1313/~ajbrock/members/edwinsalcedo/</link>
       <pubDate>Mon, 01 Jul 2019 17:36:38 -0400</pubDate>
       
-      <guid>https://www.eecis.udel.edu/~ajbrock/members/edwinsalcedo/</guid>
+      <guid>http://localhost:1313/~ajbrock/members/edwinsalcedo/</guid>
       <description>Machine learning for semisupervised domain transfer.</description>
     </item>
     
     <item>
-      <title>alumnus and admitted Ph.D. student</title>
-      <link>https://www.eecis.udel.edu/~ajbrock/members/cesarolivares/</link>
+      <title>Ph.D. student and M.S. alumnus</title>
+      <link>http://localhost:1313/~ajbrock/members/cesarolivares/</link>
       <pubDate>Wed, 01 May 2019 17:00:02 -0400</pubDate>
       
-      <guid>https://www.eecis.udel.edu/~ajbrock/members/cesarolivares/</guid>
+      <guid>http://localhost:1313/~ajbrock/members/cesarolivares/</guid>
       <description>Error-aware and vigilant machine learning. 3D convolutional neural networks for brain age prediction from structural measures. Optimal transport for color and style transfer.</description>
     </item>
     
     <item>
       <title>Ph.D. student</title>
-      <link>https://www.eecis.udel.edu/~ajbrock/members/carloscardenas/</link>
+      <link>http://localhost:1313/~ajbrock/members/carloscardenas/</link>
       <pubDate>Tue, 01 Jan 2019 13:12:57 -0400</pubDate>
       
-      <guid>https://www.eecis.udel.edu/~ajbrock/members/carloscardenas/</guid>
-      <description>Research focus: finding patterns in neural time series through convolutional sparse analysis.
-Goal: to discover physiologically meaningful waveforms in multi-day continuous epileptic electrocorticographic (ECoG) recordings that can be used to build interpretable features for seizure prediction.
+      <guid>http://localhost:1313/~ajbrock/members/carloscardenas/</guid>
+      <description>Research focus: finding patterns in neural time series through convolutional sparse analysis. Goal: to discover physiologically meaningful waveforms in multi-day continuous epileptic electrocorticographic (ECoG) recordings that can be used to build interpretable features for seizure prediction.
 Methods: interpretable machine learning, clustering and sparse coding for time series, supervised learning for neural data</description>
     </item>
     
     <item>
       <title>Assistant Professor</title>
-      <link>https://www.eecis.udel.edu/~ajbrock/members/austinbrockmeier/</link>
+      <link>http://localhost:1313/~ajbrock/members/austinbrockmeier/</link>
       <pubDate>Sat, 28 Apr 2018 17:07:03 -0400</pubDate>
       
-      <guid>https://www.eecis.udel.edu/~ajbrock/members/austinbrockmeier/</guid>
-      <description>Curriculum Vitae Email
+      <guid>http://localhost:1313/~ajbrock/members/austinbrockmeier/</guid>
+      <description>Curriculum Vitae Google Scholar Email
 What: Data Science, Machine Learning, and Signal Processing
 These involve the underlying mathematical analysis, design of statistical models, and software implementation of data and signal processing (filtering and neural networks) as well as optimization routines.
- Finding discrepancies in data sets using divergences Selecting representations of data using informativeness measures  Why: To extract actionable information from complex data, especially to understand and interface with the brain</description>
+Why: To extract actionable information from complex data, especially to understand and interface with the brain
+ </description>
     </item>
     
   </channel>

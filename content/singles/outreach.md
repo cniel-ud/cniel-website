@@ -5,7 +5,7 @@ draft: false
 ---
 ![Outreach Image](/images/outreach/image4.jpg)
 
-In 2019, we joined UD's Women in Engineering outreach program at a local New Castle Middle School, [Serviam Girls Academy](https://serviamgirlsacademy.org/) , whose mission is to take girls from low-income houses and give them the education they need to succeed in high school and beyond. Working with Trevor Foresta, ECE undergraduate student and Julia Schneider, a post-doctoral researcher  from the Department of Linguistics and Cognitive Sciences, we developed a module showing ECE’s critical role in neuroimaging technology and analysis for their enrichment program during their enrichment hour (4-5 pm on Wednesday). Julia provided slides and enthusiasm on current and past sensors and systems to measure the brains operation. Trevor assembled and tested the OpenBCI headset while still a first-year engineering student.
+In 2019, we joined UD's Women in Engineering outreach program at a local New Castle Middle School, [Serviam Girls Academy](https://serviamgirlsacademy.org/), whose mission is to take girls from low-income houses and give them the education they need to succeed in high school and beyond. Working with Trevor Foresta, ECE undergraduate student and Julia Schneider, a post-doctoral researcher  from the Department of Linguistics and Cognitive Sciences, we developed a module showing ECE’s critical role in neuroimaging technology and analysis for their enrichment program during their enrichment hour (4-5 pm on Wednesday). Julia provided slides and enthusiasm on current and past sensors and systems to measure the brains operation. Trevor assembled and tested the OpenBCI headset while still a first-year engineering student.
 
 ![Outreach Image](/images/outreach/image8.jpg)
 ![Outreach Image](/images/outreach/image5.jpg)
@@ -18,4 +18,17 @@ In 2020, Trevor and I (along with other volunteers) hosted a lunchtime activity 
 ![Outreach Image](/images/outreach/image6.jpg)
 
 {{< figure src="/images/outreach/image0.png" title="Neural Engineering Community Award" class="center" width="450">}}
-Our initial outreach efforts were recognized by being one of five short-listed groups for the Neural Engineering Community Award at the 2021 Neural Engineering Workshop (NER'21)*, a biennial conference hosted by the IEEE Engineering in Medicine & Biology Society. The award was for outstanding contributions to the mission of inclusion and diversity. Congratulations to the winners! We will increase our impact and efforts in 2021–2022.
+Our initial outreach efforts were recognized by being one of five short-listed groups for the Neural Engineering Community Award at the 2021 Neural Engineering Workshop (NER'21), a biennial conference hosted by the IEEE Engineering in Medicine & Biology Society. The award was for outstanding contributions to the mission of inclusion and diversity. Congratulations to the winners! We will increase our impact and efforts in 2021–2022.
+
+
+### June 7th, 2022
+ 
+![Outreach Image](/images/outreach/image11.jpg)
+![Outreach Image](/images/outreach/image9.jpg)
+![Outreach Image](/images/outreach/image10.jpg)
+
+Alex and César volunteered at our exhibit "What do the electric waves in your brain tell us?" during [STEAM Day](https://www.udel.edu/udaily/2022/july/neuroscience-outreach-k12-underrepresented-students/) organized by [Project Brain Light](https://www.projectbrainlight.org/). There were 55 seventh grade students in attendance at this event from A.I. duPont Middle School in Wilmington, Delaware. For the event, César made an illustrative [handout](/other/electric_brain_pamphlet.pdf).
+
+
+### June 23rd, 2022
+Alex lead a morning module "Read Someone's Mind" at the UD ECE summer camp "Make Smart Stuff". The module covered brain-computer interfaces, artificial intelligence (AI), and the intersection between those technologies and ECE. 
