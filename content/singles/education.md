@@ -6,9 +6,9 @@ draft: false
 
 #### *Fall semesters*: second-year graduate-level course in [machine learning](#eleg817).
 #### *Spring 2023*: second-year graduate course with industry proposed team projects focused on [Computing and Data Science for Soft Materials Innovation](https://sites.udel.edu/midas-nrt/graduate-trainee-timeline/courses-for-nrt-trainees/nrt-hackathon-course/) (co-teaching with lead instructor [Prof. Arthi Jayaraman](https://cbe.udel.edu/people/faculty/arthij/))
-#### *Spring 2023*: _In development:_ a 300-level undergraduate course in geospatial data science (co-teaching with [Prof. Jing Gao](https://www.udel.edu/academics/colleges/ceoe/departments/gss/faculty/jing-gao/) and [Prof. Gregory Dobler](https://www.bidenschool.udel.edu/people/gdobler)
+#### *Spring 2023*: [Geospatial Data Science](#geo) a 300-level undergraduate course in geospatial data science (co-teaching with [Prof. Jing Gao](https://www.udel.edu/academics/colleges/ceoe/departments/gss/faculty/jing-gao/) and [Prof. Gregory Dobler](https://www.bidenschool.udel.edu/people/gdobler)
 #### *Spring 2022–*: [NRT-MIDAS](https://sites.udel.edu/midas-nrt/) NSF funded research traineeship, serving as Core Faculty and secondary advisor for trainees  
-#### *Spring 2020, 2021, 2022*: 300-level undergraduate course in [signal processing and linear system analysis](#eleg305)
+#### *Spring 2020, 2021, 2022, 2024, 2025*: 300-level undergraduate course in [signal processing and linear system analysis](#eleg305)
 #### *Summer 2021*: [Independent study on adaptive filters](#eleg466)
 #### *Spring 2021*: Graduate Data Science Community Hour during [Spring 2020](https://dsi.udel.edu/events/data-science-community-hour/)
 
@@ -16,18 +16,41 @@ draft: false
 
 ## Graduate Course 
 
-### Large-Scale Machine Learning *ELEG/FSAN 817* {#eleg817}
+### Large-Scale Machine Learning *ELEG/FSAN/CISC 817* {#eleg817}
+Advanced graduate technical elective taken by students from multiple programs that improves student understanding in the statistical and computational scaling issues from increases in the dimensionality, amount, and complexity of data.
+
+Developed over summer 2019, offered in the fall semester 2019–2025.
+
+
+
 **Course Description:** Introduction to the analysis and processing of massive high-dimensional data. Massive data sets generally involve growth not only in the number of individuals represented but also in the number of descriptive parameters of the individuals, leading to exponential growth in the number of hypothesis considered. Approaches to address these problems exploit concepts from statistics and machine learning.
 
-**Offered:** Fall 2019, Fall 2020, [Fall 2021](https://docs.google.com/document/d/12qI6GI6iZi51XiCVJZwOs1gL00glVbM1DxYgwUDpCJ8), Fall 2022
 
-The course serves as a capstone course in machine learning for graduate students, with the goal of readying students for machine learning and data science research. Computational and statistical scaling of machine learning is discussed from both theoretical and practical perspectives. The formative assessments provide exercise in key aspects of machine learning research: problem formulation, critical reading of literature, algorithm implementation, abstract writing, experimental design, and peer review. Summative assessment is based on a mid-term exam and final project. 
+The course serves as a capstone course in machine learning for graduate students, with the goal of readying students for publishing their own machine learning and data science research. In terms of content, the course covers computational and statistical scaling of machine learning from both theoretical and practical perspectives as described in the syllabus. The learning assessments provide exercise in key aspects of machine learning research: problem formulation, critical reading of literature, algorithm implementation, abstract writing, experimental design, and peer review. 
 
-**2021 hyrid (in person/online synchronous) course enrollment:** There were 9 students enrolled: ECE (2 Ph.D. | 4+1 B.S./M.S.), CS (5 Ph.D.), Bioinformatics Data Science (1 Ph.D.).
+Summative assessment is based on two mid-term exams and final project. 
 
-**2020 online synchronous course enrollment:** There were 17 students enrolled: ECE (9 Ph.D. / 2 M.S.), FSAN (3 Ph.D.), Computer Science (1 Ph.D.), and Physics and Astronomy (1 Ph.D.).  One additional ECE Ph.D. student audited. 
+**Anonymous feedback from 2024 course evaluations:**
+ - "The professor was always welcoming for a discussion and doubts both in class and outside of the class, also the professor's passion and enthusiasm for the subject was infectious as it got us amped for the course too"
+ - “This machine learning course was invaluable in helping me review and deepen my understanding of mathematically formulating machine learning tasks, particularly in the context of large-scale data for my knowledge of appropriate algorithms, regularization techniques, and key considerations for managing high-dimensional spaces methodically. One aspect I found particularly interesting was the reading assignments, which were then discussed in class. The assigned papers were highly relevant and made it easier for me to follow the course material.”
+ - “The course was comprehensive, and provided a good survey of ML practices and methods while also still going reasonably deep into each topic.”
+ - “I really appreciate the enthusiasm, approachability, and overall flexibility of the course. It's also really easy to see that Prof. Brockmeier is passionate about the subject and has thought about a good "roadmap" to teach it, which is much appreciated. It feels coherent in theme.”
 
-**2019 course enrollment:** There were 13 students enrolled: ECE (3 Ph.D. / 2 M.S. / 1 B.S./M.S.), Computer Science (5 Ph.D.), Economics (1 Ph.D.), Civil \& Environmental Eng. (1 Ph.D., auditing). 
+
+**Anonymous feedback from 2023 course evaluations:**
+ - “I have rarely encountered instructors with excellent knowledge of the subject matter and excellent communication/ teaching skills. Dr. B is one of those.”
+ - “Professor Brockmeier has deep knowledge about the topics he is teaching and shares this knowledge very well. The course is very well structured and the method of teaching, reading assignments, coding assignments, and self-picked projects is engaging as well as challenging. He is very open while asking questions. Not only does this attitude set him apart from other teachers, but also the way he understands where the student struggles and the way he gives constructive feedback and ideas to solve those struggles.”
+ - “His teaching approach is distinctive. Unlike typical courses where materials of comparable quality are readily available on platforms like Google, Coursera, or MIT online courses, this course stands out. The initial segments delve into fundamental materials and papers within the realm of large-scale machine learning. The latter part transitions seamlessly into the explanation of cutting-edge materials in the field. The alignment of homework assignments with the course content is meticulous, featuring well-defined timeframes and providing constructive feedback.”
+ - “When describing his teaching approach, I would say, he is genuinely invested in fostering a learning environment. His commitment to ensuring comprehension before the semester concludes is evident. Despite the prerequisite background needed for this course, he takes the time to revisit crucial concepts. Demonstrating kindness, patience, and expertise, he actively keeps us abreast of the latest developments in machine learning. His efforts to create a comfortable class atmosphere effectively minimize the typical stress associated with a graduate course, thereby maximizing the learning experience. Having taken classes with various professors, I confidently rank him among the top three.”
+
+
+
+**Anonymous feedback from 2022 course evaluations:**
+ - “This is one of the most informative classes I have taken so far. Dr. Brockmeier has a very deep understanding of the subject matter. He teaches each topic in detail and provides a lot of additional materials that the students can explore to further their understanding.”
+ - “This was the best course I took in the MSDS program for all around data science knowledge. This should be a MSDS capstone/required course. I would encourage more MSDS students to take this course. Even if students do not have a lot of experience with AI/ML, Dr. Brockmeier's instruction and construct of the course will guarantee students will leave with significantly more data science knowledge. The professor's knowledge and passion for the subject was terrific. The professor's ability to dive deep into subjects with no notes and no hesitation during lecture was really impressive to watch.”
+ - “Professor Brockmeier is very helpful with anything. His comments on various assignments were very helpful in giving a different perspective. The course is also very well structured and covers very important topics of Machine Learning.”
+ - “Well-prepared lectures; I really like the reading assignments. Read high-quality papers and summarize my understanding. In this way, I learn a lot.” 
+ - “The knowledge framwork for various machine learning models is holistic and not simple a copy and paste from other ML courses. Relying on both intuitive cognition and mathematical tools to describe a model and the often inscrutable optimization process. Forcefully pushes me through a process to accomplish a paper (or some sort) by myself, although I've done it before, I'm glad to go over it again in a limited time.”
 
 
 **Anonymous feedback from 2021 course evaluations:**
@@ -66,23 +89,36 @@ level.
 
 **Course description:** Introduction to signals and systems, with an emphasis on time and frequency characterization of linear, time-invariant systems. Covers discrete and continuous time systems, sampling, and Fourier, Laplace, and Z transforms. 
 
-**Offered:** Spring 2020,
-[Spring 2021](https://dsi.udel.edu/files/formidable/19/ELEG305-S21.pdf), [Spring 2022](/other/eleg305_syllabus.pdf)
+
+**Learning Outcomes**
+
+Students will be able to apply detailed analytical techniques, in both time and frequency, needed to characterize continuous and discrete-time signals and systems.
+
+This course addresses the following ABET student outcome: 
+1.  An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering,  
+science, and mathematics. Specifically, 
+ - 1.5 Apply knowledge of science and math towards problems in signal processing and communications
+
+By the end of this course students will be able to 
+ - Analyze, relate, and visualize signals—Recognize properties of continuous and discrete-time signals and convert between their mathematical, graphical, and numerical representations in time, frequency, and Laplace/ Z domains.
+ - Characterize and represent systems—Analyze systems (and their effect on idealized inputs) whether they are expressed analytically through formula, code, or depicted as block diagrams, and convert between equivalent representations.
+ - Compute system responses—Describe the effect of various transformations in different domains (time, frequency, etc.) on signals, especially computing the output of linear time-invariant systems. 
+ - Analyze filters—Calculate the magnitude and phase response and analyze the properties of basic filters in continuous and discrete-time using appropriate transforms.
+ - Determine sampling and analog-to-digital conversion parameters—Choose an appropriate sampling rate and filtering in order to uniquely preserve the information of bandlimited signals and describe the consequences of undersampling (aliasing).
+ - Perform numerical programming for signal processing—Use modern programming languages to describe signals and systems for computer-based analysis, processing, and visualization.  
 
 
 *Core requirement in the following programs:*
-- Electrical Engineering
-- Computer Engineering
- and computer engineering majors. 
-- GIScience and Environmental Data Analytics
-
-*Technical elective:*
-- Chemical Engineering, Materials Science and Engineering, Mechanical Engineering
+ - Electrical Engineering
+ - Computer Engineering
+ - Cybersecurity Engineering
+ - GIScience and Environmental Data Analytics
 
 *Prerequisite for subsequent courses:*
 - ELEG 306 - Digital Signal Processing
 - ELEG 403 - Communication Systems Engineering
-- ELEG 404 - Digital Imaging and Photography
+- ELEG 405 - Engineering Machine Learning Systems
+- ELEG 404 - Digital Imaging and Deep Learning
 - ELEG 418 - Digital Control Systems
 - ELEG 492 - Radar Systems and Technology
 - BMEG 441 - Biomechatronics&dagger;
@@ -90,15 +126,62 @@ level.
 &dagger; As an alternative for BMEG 230
 
 
-**Honors Discussion Section:** 
-Students registered in Honors for this class will be involved in an additional discussion section, which introduces content beyond the general class: specifically, non-linear, adaptive, and random systems. They will also be required to complete a semester long project that reflects an application of such systems.
+**Anonymous feedback from 2025 course evaluations:**
+ - "One of my best professors”
+ -	“Professor Brockmeier is extremely knowledgeable on the subject and it shows. Hes also super nice and helpful.”
+ - 	“Professor Brockmeier is a wonderful professor that made this signals class greatly interesting to me. He was great at not only teaching the topic but also communicating real world examples and uses of signal processing, which helped really understand why we are being taught signals and systems”
+ - 	“He is very knowledgable on the subject, it is just a very hard topic to generate interest in as it is honestly very dull and difficult course work. However, I do feel like the Professor does try his best genuinly so I do appreciate that.”
+ - 	“Professor Brockmeier is definitely the most personable of any of my professors, and I appreciate the way in which he presents the material. He runs through many examples to illustrate his points. I think he'd benefit from a different room with a microphone that works more consistently.
+ - 	“The instructor answer every questin and tried his best at explainig the topics when students where confuse, also he worked with practice exams in class to prepare us for midterms which was very helpful too”
+ - 	“Dr. Brockmeier is a very smart man, he teaches a challenging course but provides his students with a lot of valuable resources that make the class as enjoyable as it can be.”
+ -	“The professor was great he was very knowledgeable and very friendly his attitude towards the class made me want to do better and prove myself, his censored quizzes and exams are genuinely one of the best things about the class as it takes the guesswork out of knowing what he expects from us, Absolutely fantastic professor”
 
-**Unsolicited Feedback from 2021 Honors section:**
-- "I really enjoyed looking more into something I’m very interested in. It was my favorite Zoom meeting between all of my classes this semester. Connecting with what I focused on, [...] Doing Honors research got me to realize that dream."
+
+**Unsolicited Feedback from 2025 section:**
+
+- "I appreciate all you have done for me this semester with bolstering my concepts of electrical engineering and signals and systems circuits. I knew this class was going to be challenging and I felt right at home having you teach his class. Your teaching was very easy to follow and encouraged me to pursue electrical engineering in the future. I felt like I was learning a lot with the examples that you set in your lecture notes this semester."
+
 
 **Unsolicited Feedback from 2020 section:**
 
 - “I want to applaud your tenacity and optimism throughout the term. Despite this class being the most challenging course I've ever taken, I have enjoyed being your student.
+
+
+**Honors Discussion Section:** 
+Students registered in Honors for this class will be involved in an additional discussion section, which introduces content beyond the general class: specifically, non-linear, adaptive, and random systems. They will also be required to complete a semester long project that reflects an application of such systems.
+
+
+**Anonymous feedback from 2025 Honor's course evaluations:**
+ - 	“He promotes good discussions on real-world applications of the course material, facilitating an easier research process.”
+ - 	“He set up an honors discussion section in which we picked project ideas related to but slightly beyond the course material. This was an interesting experience and helped show the real world application of what we are learning in class.”
+ - 	“He offered Honors sessions in his office to go more in-depth with concepts adjacent to the syllabus material, and we had to make our own relevant presentation and record it.”
+
+
+**Anonymous feedback from 2021 Honor's course evaluations:**
+ -	“The weekly discussions and individual research project helped simulate interest in various topics to do with signals and systems. Was one of the many reasons why I'll be switching majors to ELEG.”
+ -	“The Honors discussion was my favorite class in the entire semester because it felt so personable and I was able to focus on my own paths of research.”
+ - 	“I really enjoyed the honors discussion section for this class. I found it to be a nice place to talk with the professor in a more personal setting and learn about some interesting concepts that weren't covered in the main section of the class.”
+
+	
+
+
+
+### Geospatial Data Science *ELEG/CISC/GEOG/PHYS/SPPA  367* {#geo}
+
+An undergraduate technical elective (experimental) offered online to UD and Lincoln University students as part of an NSF Data Science Corps grant [2123264](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2123264)
+
+
+I provided one-third of the content covering geospatial data science programming and machine learning and coordinated the overall design and student assessment (educational material—slides and Juypter notebooks—hosted on [GitHub](https://github.com/ajbrockmeier/geospatial-data-science))  This was an introduction to programming, machine learning, or data science for many students, and the students appreciated the learning environment. Each lecture session was paired with a computer-programming based lab. This required them to review some material themselves, but ask questions if needed. 
+
+**Anonymous feedback from course evaluations:**
+ - 	“Amazing!”
+ -	“Was a very good instructor”
+ - 	"Good professor overall"
+ - 	“Having engaging lectures...the use of participation points/check your understanding sections were good mental checkpoints, especially with the wealth/shear amount of information that was being presented during his section. Having demos to each of the labs was also a big help with the complexity of the material. I could see, for the most part, how techniques talked about in lecture were directly applied to the labs. The "checking understanding" bit also extends to the Mock Exam, which served as a good starting point to studying the Midterm.” 
+ - “He was great at helping you with the labs as I found his the most difficult of the three professors.”
+ - “The second professor [Brockmeier] used a lot more participation which make it easier for me to understand what I needed to know and gave me more of an understanding of what we were doing.”
+
+
 
 
 ### Independent Study *ELEG 466*  {#eleg466}

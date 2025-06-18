@@ -14,11 +14,72 @@ draft: false
 [//]: # ([2022 Summer Program Application Form](https://forms.gle/V88AeEDrZgkk2R488))
 
 
+
+News:
+
+##### May 2025
+ - Hassan selected for the Summer Doctoral Fellowship, Graduate College!
+ - Justin  won the Best Poster Award (Signal Processing, Communication, & Control Area) at ECE Research Day! 
+
+
+##### March 2025
+ - Cesar and I made the [UDaily news](https://www.udel.edu/udaily/2025/april/kaap-concussion-artificial-intelligence-injury-prediction-athletics/) again, this time about the collaboration with Prof. Thomas Buckely's group on understanding injury risk after concussions in student athletes
+
+
+
+##### March 2025
+ - Cesar and I made the [UDaily news](https://www.udel.edu/udaily/2025/march/brain-stiffness-age-dementia-alzheimers-curtis-johnson-austin-brockmeier/) regarding the collaboration with Prof. Curtis Johnson's group on age estimation from brain stiffness
+
+
+
+##### February 2025
+ - Cesar's  paper ["A Machine Learning Model for Post-Concussion Musculoskeletal Injury Risk in Collegiate Athletes"](https://doi.org/10.1007/s40279-025-02196-4) is accepted to Sprots Medicine! This highlights our collaboration with Prof. Thomas Buckley's group!
+
+
+
+##### November 2024
+ - Cesar's   paper ["MRI-based whole-brain elastography and volumetric measurements to predict brain age"](https://doi.org/10.1093/biomethods/bpae086) is accepted! This highlights our collaboration with Prof. Curtis Johnson's group!
+
+
+##### August 2024
+ - Austin was selected as a Daniel L. Chester Graduate Fellow
+
+##### May 2024
+ - Cesar won the Best Poster Award (Signal Processing, Communication, & Control Area) at ECE Research Day 
+
+
+##### November 2023
+ - Bilal's paper ["Partial Optimal Transport for Support Subset Selection"](https://openreview.net/pdf?id=75CcopPxIr) accepted to TMLR 
+
+
+##### April 2023
+ - Kris's paper ["Exploring the influence of functional architecture on cortical thickness networks in early psychosis – A longitudinal study"](https://www.sciencedirect.com/science/article/pii/S1053811923002732?via%3Dihub) accepted to NeuroImage (before the editorial board resigned!) 
+
+##### January 2023
+ - Kris will be presenting her dissertation proposal for a candidacy exam this Thursday.
+ - Justin was selected as a MIDAS NSF Research Trainee!
+ - Carlos defended his dissertation and started his job at Twitch!
+ - César won the Bendett Fellowship!
+
+
+##### August 2022
+More CNIELers (pronounced: sea-KNEE-lurz) join!
+ - Austin Meek will be working on continuing the brain waveform work from Carlos, brain-AI studies and dependence measurements with a broader interest in human-AI alignment
+ - Justin Labombard will be working with Prof. Barner and me on cost-aware feature set selection for semisupervised learning, active learning, and Bayesian optimization.
+ - Zhi Li will be working with Prof. Javier Garcia-Frias and me on optimizing nonlinear coding and decoding algorithms.
+ - Yalin Liao will join to continue his research in dual-form (variation) density estimators.
+
+
+
+
+
 ##### July 2022
-–Dr. Grace McIlvain presents joint work from the Prof. Johnson's [Mechanical Neuroimaging Lab](https://mechneurolab.squarespace.com/) (MNL) instigated by MNL's  Rebecca Clements (undergraduate thesis) and assisted by César:  “Mechanical property-based brain age prediction using artificial neural networks”, _World Congress of Biomechanics_, Taipei, Taiwan. Journal version to be submitted soon!
+–Dr. Grace McIlvain presents joint work from the Prof. Johnson's [Mechanical Neuroimaging Lab](https://mechneurolab.squarespace.com/) (MNL) instigated by MNL's  Rebecca Clements (undergraduate thesis) and assisted by César:  “Mechanical property-based brain age prediction using artificial neural networks”, _World Congress of Biomechanics_, Taipei, Taiwan. 
  
 ##### June 2022
-—César passes the Ph.D. qualifying examination.
+-Florence Brockmeier joins the world!
+
+—César passes the Ph.D. qualifying examination. He will continue to use machine learning to identify key features in the risk of subsequent injuries following concussions.
 
 —Alex Mulrooney starts the (undergraduate) Summer Scholars Program
 

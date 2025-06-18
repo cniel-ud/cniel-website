@@ -6,14 +6,124 @@
     <description>Recent content in Members on CNIEL - University of Delaware</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Aug 2022 10:30:49 -0400</lastBuildDate><atom:link href="http://localhost:1313/~ajbrock/members/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Jun 2025 16:53:31 -0400</lastBuildDate><atom:link href="http://localhost:1313/~ajbrock/members/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Undergraduate Researcher (Summer Scholar 2022)</title>
+      <title>ECE REU (Summer 2025)</title>
+      <link>http://localhost:1313/~ajbrock/members/ericmans/</link>
+      <pubDate>Wed, 18 Jun 2025 16:53:31 -0400</pubDate>
+      
+      <guid>http://localhost:1313/~ajbrock/members/ericmans/</guid>
+      <description>Pinpointing EEG Components Spatial Origin from their Spectral Content </description>
+    </item>
+    
+    <item>
+      <title>Ph.D. student (co-advised by Prof. Javier Garcia-Frias)</title>
+      <link>http://localhost:1313/~ajbrock/members/zhili/</link>
+      <pubDate>Wed, 18 Jun 2025 16:39:03 -0400</pubDate>
+      
+      <guid>http://localhost:1313/~ajbrock/members/zhili/</guid>
+      <description>Research focus: disentangling vision-language vector-spaces for interpretable image retrieval </description>
+    </item>
+    
+    <item>
+      <title>Ph.D. student</title>
+      <link>http://localhost:1313/~ajbrock/members/austinmeek/</link>
+      <pubDate>Wed, 18 Jun 2025 16:38:55 -0400</pubDate>
+      
+      <guid>http://localhost:1313/~ajbrock/members/austinmeek/</guid>
+      <description>Human-AI alignment including brain-AI alignment. </description>
+    </item>
+    
+    <item>
+      <title>Ph.D. Alumnus</title>
+      <link>http://localhost:1313/~ajbrock/members/yalinliao/</link>
+      <pubDate>Sun, 18 May 2025 16:50:40 -0400</pubDate>
+      
+      <guid>http://localhost:1313/~ajbrock/members/yalinliao/</guid>
+      <description>Statistical Divergences and Density Estimation for Anomaly Detection and Generative Modeling. Current position: Accepted a post-doctoral research position at Moffitt Cancer Center, Tampa, Florida.</description>
+    </item>
+    
+    <item>
+      <title>Incoming Ph.D. student (co-advised with Dr. David Hong) and former Undergraduate Researcher (Summer Scholar 2022, 2023)</title>
       <link>http://localhost:1313/~ajbrock/members/alexmulrooney/</link>
-      <pubDate>Tue, 09 Aug 2022 10:30:49 -0400</pubDate>
+      <pubDate>Sun, 09 Feb 2025 10:30:49 -0400</pubDate>
       
       <guid>http://localhost:1313/~ajbrock/members/alexmulrooney/</guid>
-      <description>Neural engineering: brain-AI interfaces and algorithms</description>
+      <description>Brain-AI alignment. Tensor decompositions.</description>
+    </item>
+    
+    <item>
+      <title>Ph.D. alumnus</title>
+      <link>http://localhost:1313/~ajbrock/members/yukselkarahan/</link>
+      <pubDate>Sat, 28 Dec 2024 16:59:19 -0400</pubDate>
+      
+      <guid>http://localhost:1313/~ajbrock/members/yukselkarahan/</guid>
+      <description>Data science techniques (divergence measures; kernel methods) for covariate shift detection and semisupervised domain transfer. Detecting distributional discrepancies using kernel landmarks.</description>
+    </item>
+    
+    <item>
+      <title>Visiting Scholar (Summer and Fall 2023)</title>
+      <link>http://localhost:1313/~ajbrock/members/isabelcano/</link>
+      <pubDate>Mon, 18 Nov 2024 16:39:31 -0400</pubDate>
+      
+      <guid>http://localhost:1313/~ajbrock/members/isabelcano/</guid>
+      <description>Predicting genotypes from bag-of-waveforms as phenotypes in mouse models of epilepsy </description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Researcher</title>
+      <link>http://localhost:1313/~ajbrock/members/davidcardenas/</link>
+      <pubDate>Sun, 18 Aug 2024 17:12:23 -0400</pubDate>
+      
+      <guid>http://localhost:1313/~ajbrock/members/davidcardenas/</guid>
+      <description>Summer research experience as part of the NSF funded Data Science Corps grant working on signal processing and machine learning for music genre classification </description>
+    </item>
+    
+    <item>
+      <title>ECE REU (Summer 2024)</title>
+      <link>http://localhost:1313/~ajbrock/members/vancesteele/</link>
+      <pubDate>Sun, 18 Aug 2024 16:53:24 -0400</pubDate>
+      
+      <guid>http://localhost:1313/~ajbrock/members/vancesteele/</guid>
+      <description>Simultaneous localization and mapping with brain waves </description>
+    </item>
+    
+    <item>
+      <title>Ph.D. alumna</title>
+      <link>http://localhost:1313/~ajbrock/members/krisholton/</link>
+      <pubDate>Sun, 18 Feb 2024 16:44:01 -0400</pubDate>
+      
+      <guid>http://localhost:1313/~ajbrock/members/krisholton/</guid>
+      <description>Exploring early stage psychosis through multimodal approaches: a longitudinal study Current positions: Bioinformatician, Harvard Department of Stem Cell and Regenerative Biology. Instructor, Brandeis University.</description>
+    </item>
+    
+    <item>
+      <title>ECE REU Alumnus (Summer 2023)</title>
+      <link>http://localhost:1313/~ajbrock/members/travisdeputy/</link>
+      <pubDate>Tue, 18 Jul 2023 16:48:48 -0400</pubDate>
+      
+      <guid>http://localhost:1313/~ajbrock/members/travisdeputy/</guid>
+      <description>Brain-AI research: human-subject interfaces and adversarial data augmentation for visual perception. Summer research poster title &amp;ldquo;Effects of Targeted Pixilation on Image Classification Using a Custom Computer Vision Model&amp;rdquo; </description>
+    </item>
+    
+    <item>
+      <title>Ph.D. alumnus</title>
+      <link>http://localhost:1313/~ajbrock/members/carloscardenas/</link>
+      <pubDate>Wed, 01 Feb 2023 13:12:57 -0400</pubDate>
+      
+      <guid>http://localhost:1313/~ajbrock/members/carloscardenas/</guid>
+      <description>Research focus: finding patterns in neural time series through convolutional sparse analysis. Goal: to discover physiologically meaningful waveforms in multi-day continuous epileptic electrocorticographic (ECoG) recordings that can be used to build interpretable features for seizure prediction.
+Methods: interpretable machine learning, clustering and sparse coding for time series, supervised learning for neural data
+Current position: Appliled Scientist, Twitch Interactive, Inc.</description>
+    </item>
+    
+    <item>
+      <title>M.S. alumnus</title>
+      <link>http://localhost:1313/~ajbrock/members/hauphan/</link>
+      <pubDate>Sun, 01 Jan 2023 17:00:52 -0400</pubDate>
+      
+      <guid>http://localhost:1313/~ajbrock/members/hauphan/</guid>
+      <description>Machine learning for underwater chemical source localization. Reinforcement learning for estimation and detection. Current position: Machine Learning Engineer, Qlik</description>
     </item>
     
     <item>
@@ -23,6 +133,15 @@
       
       <guid>http://localhost:1313/~ajbrock/members/karenfonseca/</guid>
       <description>Contrastive learning representations for image segmentation/detection</description>
+    </item>
+    
+    <item>
+      <title>Ph.D. student (co-advised by Prof. Ken Barner) and prior Undergraduate Researcher (Summer Scholar 2021)</title>
+      <link>http://localhost:1313/~ajbrock/members/justinlabombard/</link>
+      <pubDate>Wed, 15 Jun 2022 17:00:22 -0400</pubDate>
+      
+      <guid>http://localhost:1313/~ajbrock/members/justinlabombard/</guid>
+      <description>Multiple-domain and multiple fidelity learning </description>
     </item>
     
     <item>
@@ -36,15 +155,6 @@
     
     <item>
       <title>Undergraduate (Summer Scholar 2021)</title>
-      <link>http://localhost:1313/~ajbrock/members/justinlabombard/</link>
-      <pubDate>Tue, 15 Jun 2021 17:00:22 -0400</pubDate>
-      
-      <guid>http://localhost:1313/~ajbrock/members/justinlabombard/</guid>
-      <description>Dictionary Learning on Epileptic ECoG Waveforms </description>
-    </item>
-    
-    <item>
-      <title>Undergraduate (Summer Scholar 2021)</title>
       <link>http://localhost:1313/~ajbrock/members/evancurtin/</link>
       <pubDate>Tue, 01 Jun 2021 21:00:00 -0400</pubDate>
       
@@ -53,39 +163,21 @@
     </item>
     
     <item>
-      <title>M.S. and Ph.D. student</title>
-      <link>http://localhost:1313/~ajbrock/members/hauphan/</link>
-      <pubDate>Fri, 01 Jan 2021 17:00:52 -0400</pubDate>
-      
-      <guid>http://localhost:1313/~ajbrock/members/hauphan/</guid>
-      <description>Machine learning for underwater chemical source localization. Reinforcement learning for estimation and detection. </description>
-    </item>
-    
-    <item>
       <title>Ph.D. student</title>
       <link>http://localhost:1313/~ajbrock/members/hassanbaker/</link>
       <pubDate>Sat, 01 Feb 2020 17:00:38 -0400</pubDate>
       
       <guid>http://localhost:1313/~ajbrock/members/hassanbaker/</guid>
-      <description>Graph signal processing for functional and structural neuroimaging. </description>
+      <description>Improving Learning under Data Scarcity Constraints: Application in Brain MRI and Sonar Imaging </description>
     </item>
     
     <item>
-      <title>Ph.D. student</title>
+      <title>Ph.D. student and M.S. alumnus</title>
       <link>http://localhost:1313/~ajbrock/members/bilalriaz/</link>
       <pubDate>Wed, 28 Aug 2019 17:00:22 -0400</pubDate>
       
       <guid>http://localhost:1313/~ajbrock/members/bilalriaz/</guid>
-      <description>Unsupervised learning as optimizations with positive semidefinite matrices. </description>
-    </item>
-    
-    <item>
-      <title>Ph.D. student</title>
-      <link>http://localhost:1313/~ajbrock/members/yukselkarahan/</link>
-      <pubDate>Wed, 28 Aug 2019 16:59:19 -0400</pubDate>
-      
-      <guid>http://localhost:1313/~ajbrock/members/yukselkarahan/</guid>
-      <description>Data science techniques (divergence measures; kernel methods) for covariate shift detection and semisupervised domain transfer.</description>
+      <description>Applications of computational optimal transport in machine learning and signal processing</description>
     </item>
     
     <item>
@@ -103,17 +195,7 @@
       <pubDate>Wed, 01 May 2019 17:00:02 -0400</pubDate>
       
       <guid>http://localhost:1313/~ajbrock/members/cesarolivares/</guid>
-      <description>Error-aware and vigilant machine learning. 3D convolutional neural networks for brain age prediction from structural measures. Optimal transport for color and style transfer.</description>
-    </item>
-    
-    <item>
-      <title>Ph.D. student</title>
-      <link>http://localhost:1313/~ajbrock/members/carloscardenas/</link>
-      <pubDate>Tue, 01 Jan 2019 13:12:57 -0400</pubDate>
-      
-      <guid>http://localhost:1313/~ajbrock/members/carloscardenas/</guid>
-      <description>Research focus: finding patterns in neural time series through convolutional sparse analysis. Goal: to discover physiologically meaningful waveforms in multi-day continuous epileptic electrocorticographic (ECoG) recordings that can be used to build interpretable features for seizure prediction.
-Methods: interpretable machine learning, clustering and sparse coding for time series, supervised learning for neural data</description>
+      <description>Injury risk prediction following concussion in student athletes, as featured in UDaily &amp;ldquo;A game-changing tool&amp;rdquo;  3D convolutional neural networks for brain age prediction from structural measures, as featured in UDaily &amp;ldquo;How old is your brain?&amp;quot; Out-of-distribution detection in supervised models. </description>
     </item>
     
     <item>

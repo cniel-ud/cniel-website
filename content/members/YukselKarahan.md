@@ -1,11 +1,11 @@
 ---
-name: "Yuksel Karahan, M.S."
-title: "Ph.D. student"
+name: "Yuksel Karahan, M.S., Ph.D."
+title: "Ph.D. alumnus"
 imageLink: "/images/members/Yuksel.jpg" 
-currentMember: true
+currentMember: false
 
-date: 2019-08-28T16:59:19-04:00
+date: 2024-12-28T16:59:19-04:00
 draft: false
 ---
 
-Data science techniques (divergence measures; kernel methods) for covariate shift detection and semisupervised domain transfer.
+Data science techniques (divergence measures; kernel methods) for covariate shift detection and semisupervised domain transfer. Detecting distributional discrepancies using kernel landmarks.

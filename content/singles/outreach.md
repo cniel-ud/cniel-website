@@ -1,5 +1,5 @@
 ---
-title: "K–12 Outreach and Undergraduate Research"
+title: "K–12 Outreach"
 date: 2021-04-29T00:49:51-04:00
 draft: false
 ---
@@ -32,3 +32,28 @@ Alex and César volunteered at our exhibit "What do the electric waves in your b
 
 ### June 23rd, 2022
 Alex lead a morning module "Read Someone's Mind" at the UD ECE summer camp "Make Smart Stuff". The module covered brain-computer interfaces, artificial intelligence (AI), and the intersection between those technologies and ECE. 
+
+
+
+### April 4th and 5th, 2023
+![Outreach Image](/images/outreach/Picture1.jpg)
+César, Alex, and I volunteered at the STEAM Day again with A.I. duPont Middle School students. We handed out ECE custom printed circuit boards and engaged them in demonstrations. Then the next day we discussed the intersection of AI, electrical and computer engineering, and neuroscience at Delaware Technical Student Association's 45th Annual STEM Conference.
+
+
+### July 7th, 2023
+
+![Outreach Image](/images/outreach/Picture2.jpg)
+
+CNIEL road show. Alex, Justin, Isabel, and I were invited to develop and present a module in 45-minute sessions for each grade throughout a day as part of “STEAM Day at Thomas Edison Charter School” (K–7th grades) as part of the [Four Youth](https://fouryouth.org) summer program. Along with live demonstrations of a wireless EEG headset and visualization software set-up, we literally sparked interest by having a Tesla coil, wireless communication of audio, investigated static charge,  and discussed the capabilities and limitations of neuroimaging and AI to read minds.
+
+
+### April 9th, 2024
+In our third STEAM Day event with  A.I. duPont Middle School students, César, Alex, Austin Meek, and I combined forces with ECE's Professor Fouad Kiamilev. Students made shocking discoveries about the STEM careers!
+
+
+### Summer 2024
+I held 10 weekly research discussions over Zoom on mini-projects focused on “Brain+AI” with three 11th-grade students and their guardians. 
+
+ 
+### September 9th, 2024
+While well beyond K-12, I presented my research in AI to the Jenner’s Pond Retirement Community, which is geographically near UD and the home of many retired faculty and alumni. My presentation “Looking under the hood at the AI engine” had a packed audience (more than 100 attendees) with engaging discussions. 

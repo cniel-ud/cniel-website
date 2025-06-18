@@ -1,10 +1,10 @@
 ---
 name: "Alex Mulrooney"
-title: "Undergraduate Researcher (Summer Scholar 2022)"
+title: "Incoming Ph.D. student (co-advised with Dr. David Hong) and former Undergraduate Researcher (Summer Scholar 2022, 2023)"
 imageLink: "/images/members/Alex.jpg"
 currentMember: true
 
-date: 2022-08-09T10:30:49-04:00
+date: 2025-02-09T10:30:49-04:00
 draft: false
 ---
-Neural engineering: brain-AI interfaces and algorithms
+Brain-AI alignment. Tensor decompositions. 

@@ -1,11 +1,11 @@
 ---
 name: "Justin Labombard"
-title: "Undergraduate (Summer Scholar 2021)"
+title: "Ph.D. student (co-advised by Prof. Ken Barner) and prior Undergraduate Researcher (Summer Scholar 2021)"
 imageLink: "/images/members/Justin.png"
-currentMember: false
+currentMember: true
 
-date: 2021-06-15T17:00:22-04:00
+date: 2022-06-15T17:00:22-04:00
 draft: false
 ---
 
-###### Dictionary Learning on Epileptic ECoG Waveforms
+###### Multiple-domain and multiple fidelity learning

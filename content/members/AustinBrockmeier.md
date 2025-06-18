@@ -8,7 +8,7 @@ date: 2018-04-28T17:07:03-04:00
 draft: false
 ---
 
-[Curriculum Vitae](/other/ajbrockmeier_CV_12_2021.pdf)
+[Curriculum Vitae](/other/ajbrockmeier_CV_6_2025.pdf)
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=g_QoCQQAAAAJ&view_op=list_works&sortby=pubdate)
 [Email](mailto:ajbrock@udel.edu)
 
