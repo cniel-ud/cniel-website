@@ -11,6 +11,6 @@ draft: false
 Dissertation involved three modalities:
 [Resting state functional connectivity](https://doi.org/10.1007/s12021-025-09742-5) 
 [Auditory evoked response](https://doi.org/10.1017/neu.2024.60)
-[Cortical thickness](https://doi.org/10.1016/j.neuroimage.2023.120127}{274(120127))
+[Cortical thickness](https://doi.org/10.1016/j.neuroimage.2023.120127)
 
 **Current positions**: Bioinformatician, Harvard Department of Stem Cell and Regenerative Biology. Instructor, Brandeis University. 
