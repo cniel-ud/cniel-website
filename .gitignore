@@ -60,3 +60,8 @@ public/tags/index.html
 public/tags/index.xml
 static/.DS_Store
 static/images/.DS_Store
+.DS_Store
+content/.DS_Store
+static/.DS_Store
+static/images/.DS_Store
+/public

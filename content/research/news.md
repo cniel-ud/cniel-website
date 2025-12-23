@@ -14,8 +14,35 @@ draft: false
 [//]: # ([2022 Summer Program Application Form](https://forms.gle/V88AeEDrZgkk2R488))
 
 
+### News:
 
-News:
+##### December 2025
+ - Hassan and Bilal are graduating! Congratulations on defending and then finalizing their dissertations.  - Openings for [new research assistant positions](/singles/admissions)  for Ph.D. students.  
+
+##### October 2025
+ - Dr. Brockmeier selected as Top Reviewer for NeurIPS 2025.
+ - Hassan Baker's [paper accepted to TMLR](https://openreview.net/pdf?id=2JJZhfGvMW}{2JJZhfGvMW).  This was part of our [ONR grant](/research/discrepancies)
+ - Our grant was selected for funding! Dr. Brockmeier and Dr. Amanda Hernan, Nemours Children's Hospital, are PIs for a new grant slated to start January 1. Funding is through the ACCEL CTR Program'  Interdisciplinary New Collaboration (INC) Award to support clinical and translactional research for pediatric eplipsy. 
+ 
+
+##### September 2025
+ - Austin Meek and Carlos's paper accepted for NeurIPS Workshop.  A. Meek, C. H. Mendoza-Cardenas, and A. J. Brockmeier,“Convolutional Monge Mapping between EEG Datasets to Support Independent Component Labeling,” NeurIPS 2025 Workshop on Learning from Time Series for Health (TS4H). [Paper](https://arxiv.org/pdf/2509.01721v2) [Code](https://github.com/cniel-ud/ICWaves).
+ - Eric Mans's abstract "Predicting the Spatial Origin of EEG Independent Components from their Spectral-Temporal Features"  has been accepted for presentation at the IEEE EMBS 12th Annual International Conference on Neural Engineering (NER 2025). This material is based upon work supported by the National Science Foundation under Grant No.2150088
+
+
+##### August 2025
+ - Hassan's paper accepted to IEEE NER. Hassan Baker and Austin Brockmeier "Efficient Many-to-Many MRI Modality Translation via a Latent-Conditioned Vector-Quantized Network" *IEEE/EMBS Conf. Neural Engineering (NER) 2025. 
+
+
+#### July 2025
+ - Kris's paper ["Latent Growth Models of Longitudinal Changes in Functional Connectivity during Early Stage Psychosis"](https://doi.org/10.1007/s12021-025-09742-5) accepted by *Neuroinformatics*
+
+##### June 2025
+ - Eric Mans arrived for UD's ECE Department NSF funded REU. He will be working on associating the spectral pattern of EEG independent components to their spatial origin. 
+
+##### May 2025
+ - Yalin graduated and started post-doctoral research position at Moffitt Cancer Center. 
+
 
 ##### May 2025
  - Hassan selected for the Summer Doctoral Fellowship, Graduate College!
@@ -35,7 +62,8 @@ News:
 ##### February 2025
  - Cesar's  paper ["A Machine Learning Model for Post-Concussion Musculoskeletal Injury Risk in Collegiate Athletes"](https://doi.org/10.1007/s40279-025-02196-4) is accepted to Sprots Medicine! This highlights our collaboration with Prof. Thomas Buckley's group!
 
-
+##### December 2024 
+- Kris's paper ["Uncovering key predictive channels and clinical variables in the gamma band auditory steady-state response in early-stage psychosis: a longitudinal study"}(https://doi.org/10.1017/neu.2024.60) in *Acta Neuropsychiatrica* 
 
 ##### November 2024
  - Cesar's   paper ["MRI-based whole-brain elastography and volumetric measurements to predict brain age"](https://doi.org/10.1093/biomethods/bpae086) is accepted! This highlights our collaboration with Prof. Curtis Johnson's group!
@@ -49,7 +77,7 @@ News:
 
 
 ##### November 2023
- - Bilal's paper ["Partial Optimal Transport for Support Subset Selection"](https://openreview.net/pdf?id=75CcopPxIr) accepted to TMLR 
+ - Bilal's paper ["Partial Optimal Transport for Support Subset Selection"](https://openreview.net/pdf?id=75CcopPxIr) accepted to TMLR.  This was part of our [ONR grant](/research/discrepancies).
 
 
 ##### April 2023

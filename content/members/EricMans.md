@@ -1,13 +1,14 @@
 ---
 name: "Eric Mans"
 title: "ECE REU (Summer 2025)"
-imageLink: 
-currentMember: true
+imageLink: "/images/members/Eric.jpg"
+currentMember: false
 
-date: 2025-06-18T16:53:31-04:00
+date: 2025-01-03T16:53:31-04:00
 draft: false
 ---
-###### Pinpointing EEG Components Spatial Origin from their Spectral  Content
+###### Predicting the Spatial Origin of EEG Independent
+Components from their Spectral-Temporal Features [Poster](/images/research/EricMansPoster36x48NER.pdf)
 
 
 

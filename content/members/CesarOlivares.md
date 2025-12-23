@@ -10,4 +10,4 @@ draft: false
 
 ###### Injury risk prediction following concussion in student athletes, as featured in UDaily ["A game-changing tool"](https://www.udel.edu/udaily/2025/april/kaap-concussion-artificial-intelligence-injury-prediction-athletics)  {#cesar}
 ###### 3D convolutional neural networks for brain age prediction from structural measures, as featured in UDaily ["How old is your brain?"](https://www.udel.edu/udaily/2025/march/brain-stiffness-age-dementia-alzheimers-curtis-johnson-austin-brockmeier/)
-###### Out-of-distribution detection in supervised models.   
+###### Out-of-distribution detection in supervised models. [Preprint](https://www.arxiv.org/abs/2511.11934)

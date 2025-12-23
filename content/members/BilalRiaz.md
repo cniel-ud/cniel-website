@@ -1,6 +1,6 @@
 ---
-name: "Bilal Riaz, M.S."
-title: "Ph.D. student and M.S. alumnus"
+name: "Bilal Riaz, M.S., Ph.D."
+title: "Ph.D. alumnus and M.S. alumnus"
 imageLink: 
 currentMember: true
 
@@ -9,4 +9,6 @@ draft: false
 ---
 
 ###### Applications of computational optimal transport in machine learning and signal
-processing
+processing 
+
+###### [Optimal Transport with Subset Selection](https://openreview.net/forum?id=75CcopPxIr)

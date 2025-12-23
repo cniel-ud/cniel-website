@@ -7,4 +7,4 @@ currentMember: true
 date: 2025-02-09T10:30:49-04:00
 draft: false
 ---
-Brain-AI alignment. Tensor decompositions. 
+Brain-AI alignment [Preprint](https://doi.org/10.48550/arXiv.2410.06067). Tensor decompositions. 
