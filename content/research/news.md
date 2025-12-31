@@ -63,7 +63,7 @@ draft: false
  - Cesar's  paper ["A Machine Learning Model for Post-Concussion Musculoskeletal Injury Risk in Collegiate Athletes"](https://doi.org/10.1007/s40279-025-02196-4) is accepted to Sprots Medicine! This highlights our collaboration with Prof. Thomas Buckley's group!
 
 ##### December 2024 
-- Kris's paper ["Uncovering key predictive channels and clinical variables in the gamma band auditory steady-state response in early-stage psychosis: a longitudinal study"}(https://doi.org/10.1017/neu.2024.60) in *Acta Neuropsychiatrica* 
+- Kris's paper ["Uncovering key predictive channels and clinical variables in the gamma band auditory steady-state response in early-stage psychosis: a longitudinal study"](https://doi.org/10.1017/neu.2024.60) in *Acta Neuropsychiatrica* 
 
 ##### November 2024
  - Cesar's   paper ["MRI-based whole-brain elastography and volumetric measurements to predict brain age"](https://doi.org/10.1093/biomethods/bpae086) is accepted! This highlights our collaboration with Prof. Curtis Johnson's group!
