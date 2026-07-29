@@ -2,7 +2,7 @@
 name: "Hassan Baker, M.S., Ph.D."
 title: "Ph.D. alumnus"
 imageLink: "/images/members/Hassan.jpg"
-currentMember: true
+currentMember: false
 
 date: 2020-02-01T17:00:38-04:00
 draft: false
