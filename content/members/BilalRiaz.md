@@ -1,8 +1,8 @@
 ---
 name: "Bilal Riaz, M.S., Ph.D."
 title: "Ph.D. alumnus and M.S. alumnus"
-imageLink: 
-currentMember: true
+imageLink: "/images/members/bilal.jpeg"
+currentMember: false
 
 date: 2019-08-28T17:00:22-04:00
 draft: false
@@ -12,3 +12,6 @@ draft: false
 processing 
 
 ###### [Optimal Transport with Subset Selection](https://openreview.net/forum?id=75CcopPxIr)
+
+
+**Current position**: Postdoctoral Researcher, University of North Carolina at Charlotte

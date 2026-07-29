@@ -15,3 +15,5 @@ draft: false
  - [Weakly Supervised Segmentation for Sonar and Natural Images](https://openreview.net/pdf?id=2JJZhfGvMW) 
 - [Efficient Many-to-Many MRI Modality Translation via a
 Latent-Conditioned Vector-Quantized Network](/papers/baker2025_NER25.pdf)
+
+**Current position**: Postdoc, UT Health San Antonio

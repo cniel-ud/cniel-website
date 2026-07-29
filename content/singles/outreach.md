@@ -57,3 +57,16 @@ I held 10 weekly research discussions over Zoom on mini-projects focused on “B
  
 ### September 9th, 2024
 While well beyond K-12, I presented my research in AI to the Jenner’s Pond Retirement Community, which is geographically near UD and the home of many retired faculty and alumni. My presentation “Looking under the hood at the AI engine” had a packed audience (more than 100 attendees) with engaging discussions. 
+
+###  October 17th, 2025
+Presenter, Newark Charter School  (Engineering Pathway at High School)
+
+### April 2026
+Exhibitor, STEAM Week (3rd, 4th, and 5th graders), Four Youth,  4/8/2026.
+
+Exhibitor, STEAM day 2026  (20 middle school age students), Project BrainLight, University of Delaware, 4/23/2026.  
+
+### Winter–Spring 2026 
+Co-Lead, [Catalyzing  AI Challenge Teams in the Mid-Atlantic Region](/singles/challenge).  Recruited 3 teams and organized 4 sessions for the Presidential AI Challenge. One team as Delware state champions.
+
+ 

@@ -6,7 +6,7 @@ shortDescription: ""
 imageLink: "/images/evanshall.png"
 
 
-date: 2021-08-24T00:59:28-04:00
+date: 2026-07-24T00:59:28-04:00
 draft: false
 ---
 
@@ -16,8 +16,23 @@ draft: false
 
 ### News:
 
+##### June 2026
+ - Austin Meek successfully defended his Ph.D. proposal and is now a Ph.D. candidate.  
+ 
+##### May 2026
+ - Hassan and Dr. Brockmeier's [Patch2Loc](/research/patch2loc) presented at AISTATS 2026 (Oral Spotlight top 2.5%)
+ - César and Dr. Brockmeier's [workshop paper](https://openreview.net/forum?id=aZnAoyzssI) presented at ``Towards Trustworthy Predictions: Theory and Applications of Calibration for Modern AI'' at AISTATS 2026.
+  - Dr. Brockmeier selected as Gold Reviewer for ICML 2026.
+  -  Our waveform to genotype paper ["Predicting seizure-model genotypes of mice from EEG waveforms" published in Journal of Neural Engineering}, Special Issue on Epilepsy and Neural Engineering(https://doi.org/10.1088/1741-2552/ae4d8c) with news coverage ["New research decodes epilepsy in brain waves" AAAS EurekAlert!](\href{https://www.eurekalert.org/news-releases/1130922})
+ 
+  
+##### March 2026
+- Dr. Brockmeier presented "Finding Diagnostically-relevant Patterns in Neural Signals & Brain Structure with Machine
+Learning" at the DARWIN Symposium on 3/12/2026 and at the Neuroscience @ Nemours Seminar Series 3/12/2026.
+
 ##### December 2025
  - Hassan and Bilal are graduating! Congratulations on defending and then finalizing their dissertations.  - Openings for [new research assistant positions](/singles/admissions)  for Ph.D. students.  
+ -  Dr. Brockmeier served as a panelist for the ["Preparing the ECE Workforce in the AI Era"https://www.youtube.com/watch?v=wV30NbDWIwY), Community Summit, Electrical and Computer Engineering Department Heads Association, 12/4/2025.
 
 ##### October 2025
  - Dr. Brockmeier selected as Top Reviewer for NeurIPS 2025.
@@ -31,7 +46,7 @@ draft: false
 
 
 ##### August 2025
- - Hassan's paper accepted to IEEE NER. Hassan Baker and Austin Brockmeier "Efficient Many-to-Many MRI Modality Translation via a Latent-Conditioned Vector-Quantized Network" *IEEE/EMBS Conf. Neural Engineering (NER) 2025. 
+ - Hassan's [paper](https://www.eecis.udel.edu/~ajbrock/papers/baker2025_NER25.pdf) accepted to IEEE NER. Hassan Baker and Austin Brockmeier "Efficient Many-to-Many MRI Modality Translation via a Latent-Conditioned Vector-Quantized Network" *IEEE/EMBS Conf. Neural Engineering (NER) 2025. 
 
 
 #### July 2025

@@ -4,14 +4,14 @@ date: 2021-04-28T12:49:16-04:00
 draft: false
 ---
 
-## Positions Available for Fall 2026
+## Position Available for Fall 2027
 
 #### **Research position: Machine Learning for Sensing and Autonomy**
 Machine learning for remote sensing, computer vision, semantic communication, and autonomy. 
 **Requirements:**
 Strong foundation in mathematics and statistics with programming experience for machine learning. Prior experience with computer vision, signal processing, reinforcement learning, robotics, computer graphics or game engines is a plus. Students should have a clear interest in advancing machine learning to address challenging real-world problems that arise from limited data scenarios in a variety of domains. 
 
-
+<!-- 
 #### **Research position: Machine Learning for Health: Neuroimaging and Bioinformatics**
 Machine learning for extracting biomarkers and risk factors from multimodal data related to neurodegeneration, cognitive decline, dementia and Alzheimer's disease.
 **Requirements:**
@@ -24,9 +24,9 @@ Learning waveform patterns of epilepsy embedded in background EEG using advanced
 **Requirements:**
 Strong foundation in mathematics and statistics with programming experience for machine learning. Prior experience with signal processing, especially neural signals is preferred. 
 
-Graduate research assistant positions are available starting Fall 2026 (or later) in the Computational Neural Information Engineering Laboratory led by Dr. Brockmeier.
-
-##  Graduate research assistant positions are available starting Fall 2026 in the Computational Neural Information Engineering Laboratory led by Dr. Brockmeier.
+Graduate research assistant positions are available starting Fall 2027 (or later) in the Computational Neural Information Engineering Laboratory led by Dr. Brockmeier.
+--> 
+## Computational Neural Information Engineering Laboratory led by Dr. Brockmeier.
 
  The lab develops innovative machine learning approaches designed to extract information from complex data, motivated by the vastness of undersea environments and the intricacies of brain structure and function. Projects range from foundational research (involving mathematical, information theoretic, statistical, and computational principles) to impactful applications related to remote sensing (underwater sonar), computer vision, neural signals, neuroimaging, and other biomedical data.
 

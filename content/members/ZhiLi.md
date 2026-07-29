@@ -1,7 +1,7 @@
 ---
 name: "Zhi Li"
 title: "Ph.D. student (co-advised by Prof. Javier Garcia-Frias)" 
-imageLink: 
+imageLink: "/images/members/zhi_li.jpg" 
 currentMember: true
 
 date: 2025-06-18T16:39:03-04:00
