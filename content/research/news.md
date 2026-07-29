@@ -13,8 +13,8 @@ draft: false
 
 [//]: # ([2022 Summer Program Application Form](https://forms.gle/V88AeEDrZgkk2R488))
 
-
-### News:
+##### July 2026
+ - [NSF AI Institute for Human-AI Cooperation (HAIC) launches!](https://www.udel.edu/udaily/2026/july/nsf-haic-institute-human-ai-cooperation-personalized-care-mobility/)  Dr. Brockmeier is a Co-PI and will serve as Deputy Director.
 
 ##### June 2026
  - Austin Meek successfully defended his Ph.D. proposal and is now a Ph.D. candidate.  

@@ -8,6 +8,8 @@ date: 2018-04-28T17:07:03-04:00
 draft: false
 ---
 
+ [Deputy Director & Co-PI, NSF AI Institute for Human-AI Cooperation (HAIC)](https://haicinstitute.org)
+
 [Curriculum Vitae](/other/ajbrockmeier_CV_7_2026.pdf)
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=g_QoCQQAAAAJ&view_op=list_works&sortby=pubdate)
 [Email](mailto:ajbrock@udel.edu)

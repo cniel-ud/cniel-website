@@ -6,7 +6,25 @@
     <description>Recent content in Members on CNIEL - University of Delaware</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jun 2025 16:39:03 -0400</lastBuildDate><atom:link href="https://www.eecis.udel.edu/~ajbrock/members/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jul 2026 18:08:45 -0400</lastBuildDate><atom:link href="https://www.eecis.udel.edu/~ajbrock/members/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Summer Scholar (Summer 2026)</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/members/maxwell/</link>
+      <pubDate>Wed, 29 Jul 2026 18:08:45 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/members/maxwell/</guid>
+      <description>Entropy Guided Dataset Augmentation </description>
+    </item>
+    
+    <item>
+      <title>INBRE Summer Scholar (Summer 2026)</title>
+      <link>https://www.eecis.udel.edu/~ajbrock/members/england/</link>
+      <pubDate>Wed, 29 Jul 2026 18:08:38 -0400</pubDate>
+      
+      <guid>https://www.eecis.udel.edu/~ajbrock/members/england/</guid>
+      <description>Using machine learning to extract patterns of brainwaves in EEG and other neural signals. </description>
+    </item>
+    
     <item>
       <title>Ph.D. student (co-advised by Prof. Javier Garcia-Frias)</title>
       <link>https://www.eecis.udel.edu/~ajbrock/members/zhili/</link>
@@ -54,12 +72,13 @@ Current positions: Bioinformatician, Harvard Department of Stem Cell and Regener
     </item>
     
     <item>
-      <title>Former Undergraduate Researcher (Summer Scholar 2022, 2023), NSF Graduate Research Fellow pursing Ph.D. with Dr. David Hong</title>
+      <title>Former Undergraduate Researcher (Summer Scholar 2022, 2023), First Semester Ph.D Fellow (co-advised with Dr. David Hong)</title>
       <link>https://www.eecis.udel.edu/~ajbrock/members/alexmulrooney/</link>
       <pubDate>Sun, 09 Feb 2025 10:30:49 -0400</pubDate>
       
       <guid>https://www.eecis.udel.edu/~ajbrock/members/alexmulrooney/</guid>
-      <description>Neural encoding models using contrastive learning Preprint.</description>
+      <description>Neural encoding models using contrastive learning Preprint.
+Current position: NSF Graduate Research Fellow at the University of Delaware pursuing a Ph.D. with Dr. David Hong.</description>
     </item>
     
     <item>
@@ -208,7 +227,8 @@ Optimal Transport with Subset Selection Current position: Postdoctoral Researche
       <pubDate>Sat, 28 Apr 2018 17:07:03 -0400</pubDate>
       
       <guid>https://www.eecis.udel.edu/~ajbrock/members/austinbrockmeier/</guid>
-      <description>Curriculum Vitae Google Scholar Email
+      <description>Deputy Director &amp;amp; Co-PI, NSF AI Institute for Human-AI Cooperation (HAIC)
+Curriculum Vitae Google Scholar Email
 What: AI, Biomedical Data Science, Machine Learning, Neuroscience, Remote Sensing (SONAR), and Signal Processing
 Why: To extract actionable information from complex data, especially to understand the brain in health and disease
  </description>

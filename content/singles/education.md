@@ -30,6 +30,16 @@ The course serves as a capstone course in machine learning for graduate students
 
 Summative assessment is based on two mid-term exams and final project. 
 
+**Anonymous feedback from 2025 course evaluations:**
+ - "Dr. Brockmeier is able to go well in-depth about machine learning concepts that are difficult to comprehend for the benefit of students. He is capable of visualizing complicated models and algorithms in a way that give an intuition as to how they work, even if the problem space is multi-dimensional."
+ - "BEST professor to teach ML, explains everything in very details, and the lectures are engaging which I feel was very important given the lecture is 80 minutes long."
+ - "Very knowledgeable on the topic, presents topics in an engaging way."
+ - "Dr. Brockmeier is extremely knowledgeable, and from what I have seen so far, I don't think there is a machine learning question he cannot answer. He is always helpful and willing to talk with students, and I really value that."
+ - "Great material, good approach for teaching, very responsive"
+ - "He is an incredible instructor that has a great passion for the subject. He is also able to answer any and all questions very well, finding amazingly simple ways to discuss complex topics."
+ - "Understanding the intuition behind the math is the most essential thing that this course taught me. After taking this course, I have a newfound interest in Theoretical Machine Learning and Generative AI."
+
+
 **Anonymous feedback from 2024 course evaluations:**
  - "The professor was always welcoming for a discussion and doubts both in class and outside of the class, also the professor's passion and enthusiasm for the subject was infectious as it got us amped for the course too"
  - “This machine learning course was invaluable in helping me review and deepen my understanding of mathematically formulating machine learning tasks, particularly in the context of large-scale data for my knowledge of appropriate algorithms, regularization techniques, and key considerations for managing high-dimensional spaces methodically. One aspect I found particularly interesting was the reading assignments, which were then discussed in class. The assigned papers were highly relevant and made it easier for me to follow the course material.”
@@ -38,7 +48,8 @@ Summative assessment is based on two mid-term exams and final project.
 
 
 **Anonymous feedback from 2023 course evaluations:**
- - “I have rarely encountered instructors with excellent knowledge of the subject matter and excellent communication/ teaching skills. Dr. B is one of those.”
+
+ - “I have rarely encountered instructors with excellent knowledge of the subject matter and excellent communication/ teaching skills. Dr. B is one of those.”
  - “Professor Brockmeier has deep knowledge about the topics he is teaching and shares this knowledge very well. The course is very well structured and the method of teaching, reading assignments, coding assignments, and self-picked projects is engaging as well as challenging. He is very open while asking questions. Not only does this attitude set him apart from other teachers, but also the way he understands where the student struggles and the way he gives constructive feedback and ideas to solve those struggles.”
  - “His teaching approach is distinctive. Unlike typical courses where materials of comparable quality are readily available on platforms like Google, Coursera, or MIT online courses, this course stands out. The initial segments delve into fundamental materials and papers within the realm of large-scale machine learning. The latter part transitions seamlessly into the explanation of cutting-edge materials in the field. The alignment of homework assignments with the course content is meticulous, featuring well-defined timeframes and providing constructive feedback.”
  - “When describing his teaching approach, I would say, he is genuinely invested in fostering a learning environment. His commitment to ensuring comprehension before the semester concludes is evident. Despite the prerequisite background needed for this course, he takes the time to revisit crucial concepts. Demonstrating kindness, patience, and expertise, he actively keeps us abreast of the latest developments in machine learning. His efforts to create a comfortable class atmosphere effectively minimize the typical stress associated with a graduate course, thereby maximizing the learning experience. Having taken classes with various professors, I confidently rank him among the top three.”
@@ -125,6 +136,17 @@ By the end of this course students will be able to
 - BMEG 330 - Biomedical Instrumentation&dagger;  
 &dagger; As an alternative for BMEG 230
 
+
+**Anonymous feedback from 2026 course evaluations:**
+- "Professor Brockmeier was always ready for class, open to questions, and willing to explain things different ways to convey the concepts. He often used
+real life examples of the concepts we were discussing and showed how they can be useful in applications. He was good with the classroom tech; using a
+good balance of tablet on projector and chalkboard to cover the material. He spoke clearly and was easy to understand. He also spoke plainly about the
+concepts and techniques for succeeding in the class. Occasional humor lightened up the lectures, math lectures can get a little dreary, wasn't a problem
+with Brockmeier."
+ - " Very good at explaining topics and its impressive to watch honestly."
+ - "Professor was very capable of answering questions in an intuitive way. Breaks down problems to fundamental concepts beyond what the solution could
+show you."
+- "Professor Brockmeier was very helpful in connecting course concepts to real world applications"
 
 **Anonymous feedback from 2025 course evaluations:**
  - "One of my best professors”

@@ -12,6 +12,9 @@ body
     margin:0 !important;
 }
 
+
+
+
 .navbar{
     z-index: 99;
 }
@@ -202,4 +205,12 @@ footer{
         text-align: center;
         margin: 0;
     }
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #333333; /* Darkens the line so it is visible */
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    opacity: 1; /* Prevents opacity from washing out the color */
 }

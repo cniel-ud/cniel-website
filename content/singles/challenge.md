@@ -1,17 +1,50 @@
 ---
 
-title: "AI Challenge"
+title: "Catalyzing Delware High School Students in the Presidential AI Challenge Participations"
 
 date: 2026-01-08T14:01:50-05:00
 
 draft: false
 
 ---
+Supported by the National Science Foundation, the University of Delaware’s Department of Electrical and Computer Engineering offered expert mentorship and stipends to local high school students to compete in the national Presidential AI Challenge. We are  proud of the outstanding participation of the three Delaware high school teams that we mentored and competeed in the Presidential AI Challenge:
+
+### Teams: 
+
+
+**STUDY BUDDY - THE RESPONSIBLE AI TUTOR** was developed by Alvin Abbey of Odyssey Charter School, who was supervised by Theresa Emmett, the director of Four Youth, a non-profit organization headquartered in Wilmington, Delaware.  This project details a distinct responsible AI tutoring solution aimed at assisting students with personalized, ethically sound academic support throughout their schooling. It was thoughtfully designed to encourage homework engagement.  
+
+
+**INTEGRATION OF ETHICAL ARTIFICIAL INTELLIGENCE INTO DELAWARE PUBLIC SCHOOLS** was submitted by Joseph Zogheib from Concord High School, supervised by his parent, Karen Zogheib. This project directly addresses the growing challenge of AI misuse in education. The project's core issue is the increasing use of general-purpose chatbots (like ChatGPT) by students, which the proposal argues stunts learning and exacerbates existing educational disparities.
 
 
 
 
+![Outreach Image](/images/outreach/joseph.jpg)
 
+**TOFU - TRAFFIC OPTIMIZATION FEEDBACK UNIT** Artificial Intelligence and Machine Learning to Improve
+Traffic and Pedestrian Flow at Busy Intersections includes members Robert Evans, Rohit Marath, and Sajjan Subramanian. They developed an innovative proposal that applies artificial intelligence and machine learning to improve traffic and pedestrian flow at busy intersections, such as those in Newark, Delaware. The
+students from Caravel Academy were supervised by John Olinda.
+
+Their proposed system integrates computer vision and reinforcement learning to dynamically adjust pedestrian and vehicle signal timing. Cameras mounted on traffic signals would detect and track vehicles and pedestrians using modern object-detection models, while a reinforcement-learning system would analyze traffic patterns to optimize crossing times and minimize unnecessary delays.
+
+The design uses real-time vehicle and pedestrian detection and tracking to estimate traffic flow, enabling the system to dynamically adjust signal timing rather than relying on fixed intervals. This approach could reduce congestion, decrease pedestrian wait times, and improve safety by discouraging risky crossings and adapting to conditions such as crowded events or the presence of pedestrians with disabilities. 
+
+![Outreach Image](/images/outreach/tofu.jpg)
+
+
+All three projects reflect both technical sophistication and thoughtful consideration of the ethical and societal implications of AI.  
+
+**Team TOFO has been selected as a State Champion in the Delaware Competition and competed in the Northeast Regional Competition.**  Congratulations to Robert, Rohit, and Sajjan for their impressive work and creativity! Out of more than 2,500 submissions nationwide, only 328 teams were selected as state-level winners, making this a significant accomplishment for these students and their school. 
+
+The three Presidential AI Challenge teams also presented their work at the Delaware AI Showcase at UD held on Friday, April 10, at the FinTech Innovation Hub (STAR Campus).  Students were invited to stay and share their projects with undergraduate students and faculty involved in the first annual Vertically Integrated Project (VIP) Course Showcase, which celebrated innovation and entrepreneurship by showcasing student projects from several VIP teams.  The event featured high-energy Lightning Talks (3-minute pitches), an Interactive Poster Mixer where attendees voted for the best projects, and concluded with a Reception & Awards ceremony that included networking. 
+![Outreach Image](/images/outreach/vip_showcase.jpg)
+
+These activities were supported by a National Science Foundation (NSF) grant awarded to the Center for Cybersecurity, Assurance, and Privacy at the University of Delaware and the Electrical and Computer Engineering Department at the University of Delaware. This initiative expands opportunities for high school students across the state to engage in AI, data science, and advanced computing research.
+
+*This material is based upon work supported by the National Science Foundation under Grant No. 2336586 through supplemental funding for the Presidential AI-Youth Challenge Competition. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.*
+
+## Original Information for Participants Below:
 
 
 ### What ideas do you have to identify community-based problems where AI can be part of the solution?
